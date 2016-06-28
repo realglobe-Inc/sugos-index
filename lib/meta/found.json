@@ -88,11 +88,11 @@
     "fork": false
   },
   {
-    "name": "sugo-endpoint-compile",
-    "full_name": "realglobe-Inc/sugo-endpoint-compile",
+    "name": "sugos-index",
+    "full_name": "realglobe-Inc/sugos-index",
     "private": true,
-    "description": "Compiler middleware for SUGOS",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-endpoint-compile",
+    "description": "Index of SUGOS projects",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugos-index",
     "fork": false
   },
   {
@@ -136,19 +136,19 @@
     "fork": false
   },
   {
-    "name": "sugos.tech",
-    "full_name": "realglobe-Inc/sugos.tech",
-    "private": true,
-    "description": "Homepage of sugos",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugos.tech",
-    "fork": false
-  },
-  {
     "name": "sugo-demo-middleware",
     "full_name": "realglobe-Inc/sugo-demo-middleware",
     "private": true,
     "description": "Demo of sugo middleware",
     "url": "https://api.github.com/repos/realglobe-Inc/sugo-demo-middleware",
+    "fork": false
+  },
+  {
+    "name": "sugos.tech",
+    "full_name": "realglobe-Inc/sugos.tech",
+    "private": true,
+    "description": "Homepage of sugos",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugos.tech",
     "fork": false
   },
   {
@@ -213,6 +213,14 @@
     "private": true,
     "description": "Client for sugo-endpoint-compile",
     "url": "https://api.github.com/repos/realglobe-Inc/sugo-agent-compile",
+    "fork": false
+  },
+  {
+    "name": "sugo-endpoint-compile",
+    "full_name": "realglobe-Inc/sugo-endpoint-compile",
+    "private": true,
+    "description": "Endpoint to compile javascripts.",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-endpoint-compile",
     "fork": false
   },
   {

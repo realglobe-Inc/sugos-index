@@ -22,6 +22,9 @@
   "endpoint": [
     "sugo-endpoint-*"
   ],
+  "agent": [
+    "sugo-agent-*"
+  ],
   "helper": [
     "sg-*"
   ]

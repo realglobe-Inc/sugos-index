@@ -75,6 +75,7 @@ Packages
 + [Interface Packages](#package-group-Interface)
 + [Middleware Packages](#package-group-Middleware)
 + [Endpoint Packages](#package-group-Endpoint)
++ [Agent Packages](#package-group-Agent)
 + [Helper Packages](#package-group-Helper)
 
 
@@ -141,7 +142,17 @@ Endpoint plugins for SUGO-Cloud
 
 | Name | Description |
 | ---- | ----------- |
-| [sugo-endpoint-compile](https://github.com/realglobe-Inc/sugo-endpoint-compile) | Compiler middleware for SUGOS |
+| [sugo-endpoint-compile](https://github.com/realglobe-Inc/sugo-endpoint-compile) | Endpoint to compile javascripts. |
+<a name="package-group-Agent"/>
+
+### Agent Packages
+
+Agent of endpoints
+
+| Name | Description |
+| ---- | ----------- |
+| [sugo-agent-base](https://github.com/realglobe-Inc/sugo-agent-base) | Base class of HTTP clients for SUGOS |
+| [sugo-agent-compile](https://github.com/realglobe-Inc/sugo-agent-compile) | Client for sugo-endpoint-compile |
 <a name="package-group-Helper"/>
 
 ### Helper Packages

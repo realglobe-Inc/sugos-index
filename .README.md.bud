@@ -31,6 +31,7 @@ module.exports = apeTmpl.readmeMdBud({
       { group: 'Interface', desc: 'Interface plugins for SUGOS-Spot', modules: require('./lib/interface') },
       { group: 'Middleware', desc: 'Middleware plugins for SUGO-Cloud', modules: require('./lib/middleware') },
       { group: 'Endpoint', desc: 'Endpoint plugins for SUGO-Cloud', modules: require('./lib/endpoint') },
+      { group: 'Agent', desc: 'Agent of endpoints', modules: require('./lib/agent') },
       { group: 'Helper', desc: 'Helper modules.', modules: require('./lib/helper') }
     ]
   }
