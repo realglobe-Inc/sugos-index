@@ -1,6 +1,6 @@
 {
   "name": "sugos-index",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Index of SUGOS projects",
   "main": "lib",
   "scripts": {
@@ -9,7 +9,8 @@
   },
   "repository": "realglobe-Inc/sugos-index",
   "keywords": [
-    "SUGOS"
+    "SUGOS",
+    "index"
   ],
   "author": {
     "name": "Taka Okunishi",
