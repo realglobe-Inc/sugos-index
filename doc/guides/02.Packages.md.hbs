@@ -1,0 +1,22 @@
+Packages
+---------
+
+{{#each vars.packages}}
++ [{{group}} Packages](#package-group-{{group}})
+{{/each}}
+
+
+{{#each vars.packages}}
+<a name="package-group-{{group}}"/>
+
+### {{group}} Packages
+
+{{desc}}
+
+| Name | Description |
+| ---- | ----------- |
+{{#each modules}}
+| [{{name}}]({{{url}}} | {{{description }}} |
+{{/each}}
+{{/each}}
+

@@ -1,0 +1,28 @@
+{
+  "core": [
+    "sugos",
+    "sugo-cloud",
+    "sugo-spot",
+    "sugo-terminal",
+    "sugo-observer",
+    "sugos.tech"
+  ],
+  "demo": [
+    "sugo-demo-*"
+  ],
+  "example": [
+    "sugo-example-*"
+  ],
+  "interface": [
+    "sugo-interface-*"
+  ],
+  "middleware": [
+    "sugo-middleware-*"
+  ],
+  "endpoint": [
+    "sugo-endpoint-*"
+  ],
+  "helper": [
+    "sg-*"
+  ]
+}

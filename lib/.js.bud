@@ -1,0 +1,36 @@
+/**
+ * Bud for js
+ */
+'use strict'
+
+const minimatch = require('minimatch')
+const { snakecase } = require('stringcase')
+
+const found = require('./meta/found.json')
+const rules = require('./meta/rules.json')
+
+module.exports = Object.keys(rules).map((name) => ({
+  path: `${snakecase(name)}.js`,
+  force: true,
+  mode: '444',
+  data: {
+    name,
+    packages: found.filter((found) => {
+      for (let pattern of rules[ name ]) {
+        let hit = minimatch(found.name, pattern)
+        if (hit) {
+          return true
+        }
+      }
+      return false
+    }).map((found) => ({
+      name: found.name,
+      description: found.description,
+      url: `https://github.com/${found.full_name}`
+    }))
+  }
+}))
+
+if (!module.parent) {
+  require('coz').render(__filename)
+}

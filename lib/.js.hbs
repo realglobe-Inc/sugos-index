@@ -1,0 +1,20 @@
+/**
+ * Index of {{name}} packages
+ * @namespace {{pascalcase name}}
+ */
+'use strict'
+
+/** @lends {{pascalcase name}} */
+const {{pascalcase name}} = [
+{{#each packages}}
+  {
+    name: '{{name}}',
+    description: '{{description}}',
+    url: '{{url}}'
+  }{{#if @last}}{{else}},
+{{/if}}
+{{/each}}
+
+]
+
+module.exports = {{pascalcase name}}
