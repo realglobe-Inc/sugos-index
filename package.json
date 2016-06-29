@@ -1,6 +1,6 @@
 {
   "name": "sugos-index",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Index of SUGOS projects",
   "main": "lib",
   "scripts": {

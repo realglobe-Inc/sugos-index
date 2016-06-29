@@ -101,8 +101,8 @@ Demo for SUGOS scaffolding
 
 | Name | Description |
 | ---- | ----------- |
-| [sugo-demo-agent](https://github.com/realglobe-Inc/sugo-demo-agent) | Demo of sugo agent |
 | [sugo-demo-example](https://github.com/realglobe-Inc/sugo-demo-example) | Demo of sugo example |
+| [sugo-demo-agent](https://github.com/realglobe-Inc/sugo-demo-agent) | Demo of sugo agent |
 | [sugo-demo-interface](https://github.com/realglobe-Inc/sugo-demo-interface) | Demo of sugo interface |
 | [sugo-demo-endpoint](https://github.com/realglobe-Inc/sugo-demo-endpoint) | Demo of sugo route |
 | [sugo-demo-middleware](https://github.com/realglobe-Inc/sugo-demo-middleware) | Demo of sugo middleware |
@@ -142,7 +142,9 @@ Endpoint plugins for SUGO-Cloud
 
 | Name | Description |
 | ---- | ----------- |
+| [sugo-endpoint-noop](https://github.com/realglobe-Inc/sugo-endpoint-noop) | Endpoint to do nothing. |
 | [sugo-endpoint-compile](https://github.com/realglobe-Inc/sugo-endpoint-compile) | Endpoint to compile javascripts. |
+| [sugo-endpoint-file](https://github.com/realglobe-Inc/sugo-endpoint-file) | Endpoint to handle files |
 <a name="package-group-Agent"/>
 
 ### Agent Packages
