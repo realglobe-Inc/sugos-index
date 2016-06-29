@@ -56,19 +56,19 @@
     "fork": false
   },
   {
-    "name": "sugo-demo-agent",
-    "full_name": "realglobe-Inc/sugo-demo-agent",
-    "private": true,
-    "description": "Demo of sugo agent",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-demo-agent",
-    "fork": false
-  },
-  {
     "name": "sugo-demo-example",
     "full_name": "realglobe-Inc/sugo-demo-example",
     "private": true,
     "description": "Demo of sugo example",
     "url": "https://api.github.com/repos/realglobe-Inc/sugo-demo-example",
+    "fork": false
+  },
+  {
+    "name": "sugo-demo-agent",
+    "full_name": "realglobe-Inc/sugo-demo-agent",
+    "private": true,
+    "description": "Demo of sugo agent",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-demo-agent",
     "fork": false
   },
   {
@@ -104,6 +104,14 @@
     "fork": false
   },
   {
+    "name": "sugo-middleware-noop",
+    "full_name": "realglobe-Inc/sugo-middleware-noop",
+    "private": true,
+    "description": "Noop middleware for SUGOS",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-middleware-noop",
+    "fork": false
+  },
+  {
     "name": "sugo-demo-endpoint",
     "full_name": "realglobe-Inc/sugo-demo-endpoint",
     "private": true,
@@ -112,11 +120,43 @@
     "fork": false
   },
   {
-    "name": "sugo-middleware-noop",
-    "full_name": "realglobe-Inc/sugo-middleware-noop",
+    "name": "sugo-react-example",
+    "full_name": "realglobe-Inc/sugo-react-example",
     "private": true,
-    "description": "Noop middleware for SUGOS",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-middleware-noop",
+    "description": "React components for SUGOS example projects",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-react-example",
+    "fork": false
+  },
+  {
+    "name": "sugo-example-say",
+    "full_name": "realglobe-Inc/sugo-example-say",
+    "private": true,
+    "description": "Example of SUGOS to remote speech.",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-example-say",
+    "fork": false
+  },
+  {
+    "name": "sugo-endpoint-noop",
+    "full_name": "realglobe-Inc/sugo-endpoint-noop",
+    "private": true,
+    "description": "Endpoint to do nothing.",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-endpoint-noop",
+    "fork": false
+  },
+  {
+    "name": "sugo-unit-lib",
+    "full_name": "realglobe-Inc/sugo-unit-lib",
+    "private": true,
+    "description": "",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-unit-lib",
+    "fork": false
+  },
+  {
+    "name": "sugo-adaptor-kinect",
+    "full_name": "realglobe-Inc/sugo-adaptor-kinect",
+    "private": true,
+    "description": "sugo adaptor plugin for kinect.",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-adaptor-kinect",
     "fork": false
   },
   {
@@ -144,6 +184,14 @@
     "fork": false
   },
   {
+    "name": "sugo-interface-shell",
+    "full_name": "realglobe-Inc/sugo-interface-shell",
+    "private": true,
+    "description": "Bash interface plugin of SUGO-Spot",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-interface-shell",
+    "fork": false
+  },
+  {
     "name": "sugos.tech",
     "full_name": "realglobe-Inc/sugos.tech",
     "private": true,
@@ -160,38 +208,6 @@
     "fork": false
   },
   {
-    "name": "sugo-react-example",
-    "full_name": "realglobe-Inc/sugo-react-example",
-    "private": true,
-    "description": "React components for SUGOS example projects",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-react-example",
-    "fork": false
-  },
-  {
-    "name": "sugo-example-say",
-    "full_name": "realglobe-Inc/sugo-example-say",
-    "private": true,
-    "description": "Example of SUGOS to remote speech.",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-example-say",
-    "fork": false
-  },
-  {
-    "name": "sugo-unit-lib",
-    "full_name": "realglobe-Inc/sugo-unit-lib",
-    "private": true,
-    "description": "",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-unit-lib",
-    "fork": false
-  },
-  {
-    "name": "sugo-adaptor-kinect",
-    "full_name": "realglobe-Inc/sugo-adaptor-kinect",
-    "private": true,
-    "description": "sugo adaptor plugin for kinect.",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-adaptor-kinect",
-    "fork": false
-  },
-  {
     "name": "sugo-agent-base",
     "full_name": "realglobe-Inc/sugo-agent-base",
     "private": true,
@@ -200,11 +216,19 @@
     "fork": false
   },
   {
-    "name": "sugo-interface-shell",
-    "full_name": "realglobe-Inc/sugo-interface-shell",
+    "name": "sugo-endpoint-compile",
+    "full_name": "realglobe-Inc/sugo-endpoint-compile",
     "private": true,
-    "description": "Bash interface plugin of SUGO-Spot",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-interface-shell",
+    "description": "Endpoint to compile javascripts.",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-endpoint-compile",
+    "fork": false
+  },
+  {
+    "name": "sugo-endpoint-file",
+    "full_name": "realglobe-Inc/sugo-endpoint-file",
+    "private": true,
+    "description": "Endpoint to handle files",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-endpoint-file",
     "fork": false
   },
   {
@@ -213,14 +237,6 @@
     "private": true,
     "description": "Client for sugo-endpoint-compile",
     "url": "https://api.github.com/repos/realglobe-Inc/sugo-agent-compile",
-    "fork": false
-  },
-  {
-    "name": "sugo-endpoint-compile",
-    "full_name": "realglobe-Inc/sugo-endpoint-compile",
-    "private": true,
-    "description": "Endpoint to compile javascripts.",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-endpoint-compile",
     "fork": false
   },
   {
