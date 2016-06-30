@@ -88,10 +88,10 @@ Core of SUGOS
 | Name | Description |
 | ---- | ----------- |
 | [sugos](https://github.com/realglobe-Inc/sugos) | Super Ultra Gorgeous Outstanding Special frame work for WoT |
-| [sugo-cloud](https://github.com/realglobe-Inc/sugo-cloud) | Cloud server of SUGOS |
 | [sugo-observer](https://github.com/realglobe-Inc/sugo-observer) | Remote observer for SUGOS |
-| [sugo-spot](https://github.com/realglobe-Inc/sugo-spot) | Edge module of SUGOS |
+| [sugo-cloud](https://github.com/realglobe-Inc/sugo-cloud) | Cloud server of SUGOS |
 | [sugo-terminal](https://github.com/realglobe-Inc/sugo-terminal) | Remote terminal for SUGOS |
+| [sugo-spot](https://github.com/realglobe-Inc/sugo-spot) | Edge module of SUGOS |
 | [sugos.tech](https://github.com/realglobe-Inc/sugos.tech) | Homepage of sugos |
 <a name="package-group-Demo"/>
 
@@ -101,11 +101,11 @@ Demo for SUGOS scaffolding
 
 | Name | Description |
 | ---- | ----------- |
-| [sugo-demo-example](https://github.com/realglobe-Inc/sugo-demo-example) | Demo of sugo example |
 | [sugo-demo-agent](https://github.com/realglobe-Inc/sugo-demo-agent) | Demo of sugo agent |
-| [sugo-demo-interface](https://github.com/realglobe-Inc/sugo-demo-interface) | Demo of sugo interface |
-| [sugo-demo-endpoint](https://github.com/realglobe-Inc/sugo-demo-endpoint) | Demo of sugo route |
+| [sugo-demo-example](https://github.com/realglobe-Inc/sugo-demo-example) | Demo of sugo example |
 | [sugo-demo-middleware](https://github.com/realglobe-Inc/sugo-demo-middleware) | Demo of sugo middleware |
+| [sugo-demo-endpoint](https://github.com/realglobe-Inc/sugo-demo-endpoint) | Demo of sugo route |
+| [sugo-demo-interface](https://github.com/realglobe-Inc/sugo-demo-interface) | Demo of sugo interface |
 <a name="package-group-Example"/>
 
 ### Example Packages
@@ -124,7 +124,8 @@ Interface plugins for SUGOS-Spot
 | Name | Description |
 | ---- | ----------- |
 | [sugo-interface-noop](https://github.com/realglobe-Inc/sugo-interface-noop) | Noop interface for SUGOS |
-| [sugo-interface-shell](https://github.com/realglobe-Inc/sugo-interface-shell) | Bash interface plugin of SUGO-Spot |
+| [sugo-interface-shell](https://github.com/realglobe-Inc/sugo-interface-shell) | Shell interface for SUGOS |
+| [sugo-interface-say](https://github.com/realglobe-Inc/sugo-interface-say) | Say command interface for SUGOS. (For OSX only now) |
 <a name="package-group-Middleware"/>
 
 ### Middleware Packages
@@ -154,6 +155,7 @@ Agent of endpoints
 | Name | Description |
 | ---- | ----------- |
 | [sugo-agent-base](https://github.com/realglobe-Inc/sugo-agent-base) | Base class of HTTP clients for SUGOS |
+| [sugo-agent-file](https://github.com/realglobe-Inc/sugo-agent-file) | Client for sugo-endpoint-file |
 | [sugo-agent-compile](https://github.com/realglobe-Inc/sugo-agent-compile) | Client for sugo-endpoint-compile |
 <a name="package-group-Helper"/>
 
@@ -165,12 +167,13 @@ Helper modules.
 | ---- | ----------- |
 | [sg-react](https://github.com/realglobe-Inc/sg-react) | React utilities for SUGOS |
 | [sg-compiler](https://github.com/realglobe-Inc/sg-compiler) | Javascript compiler for sugos |
+| [sg-check](https://github.com/realglobe-Inc/sg-check) | Checking utilify for SUGOS |
 | [sg-socket-client](https://github.com/realglobe-Inc/sg-socket-client) | Web socket client for SUGOS |
+| [sg-react-components](https://github.com/realglobe-Inc/sg-react-components) | React components for SUGOS project |
+| [sg-socket](https://github.com/realglobe-Inc/sg-socket) | Web socket server for SUGOS |
 | [sg-validator](https://github.com/realglobe-Inc/sg-validator) | JSON schema validator for SUGOS |
 | [sg-storage](https://github.com/realglobe-Inc/sg-storage) | On-memory storage for SUGOS |
 | [sg-server](https://github.com/realglobe-Inc/sg-server) | HTTP web server for SUGOS |
-| [sg-react-components](https://github.com/realglobe-Inc/sg-react-components) | React components for SUGOS project |
-| [sg-socket](https://github.com/realglobe-Inc/sg-socket) | Web socket server for SUGOS |
 | [sg-schemas](https://github.com/realglobe-Inc/sg-schemas) | Collection of JSON schemas for SUGOS |
 
 
@@ -197,6 +200,8 @@ This software is released under the [MIT License](https://github.com/realglobe-I
 Links
 ------
 
-+ [sugos](https://github.com/realglobe-Inc/sugos)
++ [sugos][sugos_url]
+
+[sugos_url]: https://github.com/realglobe-Inc/sugos
 
 <!-- Links End -->
