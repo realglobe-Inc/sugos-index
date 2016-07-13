@@ -1,6 +1,6 @@
 {
   "name": "sugos-index",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Index of SUGOS projects",
   "main": "lib",
   "scripts": {
@@ -27,20 +27,19 @@
   },
   "devDependencies": {
     "ape-covering": "^3.0.3",
-    "ape-formatting": "^1.0.0",
+    "ape-formatting": "^1.0.2",
     "ape-releasing": "^4.0.1",
     "ape-reporting": "^3.0.1",
     "ape-tasking": "^4.0.3",
-    "ape-testing": "^4.0.0",
-    "ape-tmpl": "^5.0.11",
-    "ape-updating": "^4.0.2",
-    "apemansleep": "^1.0.3",
-    "coz": "^6.0.3",
+    "ape-testing": "^4.0.1",
+    "ape-tmpl": "^5.0.12",
+    "ape-updating": "^4.0.4",
+    "coz": "^6.0.5",
     "injectmock": "^2.0.0",
     "minimatch": "^3.0.2",
     "mkdirp": "^0.5.1",
     "stringcase": "^3.0.1",
-    "writeout": "^2.0.5"
+    "writeout": "^2.0.6"
   },
   "engines": {
     "node": ">=6",

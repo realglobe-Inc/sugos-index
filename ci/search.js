@@ -18,7 +18,7 @@ const { GITHUB_ACCESS_TOKEN } = process.env
 const apeTasking = require('ape-tasking')
 const co = require('co')
 const writeout = require('writeout')
-const { sleep } = require('apemansleep')
+const asleep = require('asleep')
 
 if (!GITHUB_ACCESS_TOKEN) {
   throw new Error('GITHUB_ACCESS_TOKEN is required')
@@ -52,7 +52,7 @@ apeTasking.runTasks('search', [
       }))
       console.log(`${data.length} repos fetched on page ${page}`)
       searched = searched.concat(data)
-      yield sleep(300)
+      yield asleep(300)
       if (searched.length < page * MAX_COUNT) {
         break
       }
