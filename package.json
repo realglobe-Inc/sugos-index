@@ -1,6 +1,6 @@
 {
   "name": "sugos-index",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Index of SUGOS projects",
   "main": "lib",
   "scripts": {
@@ -17,7 +17,7 @@
     "email": "okunishitaka.com@gmail.com",
     "url": "http://okunishitaka.com"
   },
-  "license": "MIT",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/realglobe-Inc/sugos-index/issues"
   },
@@ -34,6 +34,7 @@
     "ape-testing": "^4.0.1",
     "ape-tmpl": "^5.0.12",
     "ape-updating": "^4.0.4",
+    "asleep": "^1.0.3",
     "coz": "^6.0.5",
     "injectmock": "^2.0.0",
     "minimatch": "^3.0.2",

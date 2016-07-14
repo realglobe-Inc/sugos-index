@@ -80,14 +80,6 @@
     "fork": false
   },
   {
-    "name": "sugos-index",
-    "full_name": "realglobe-Inc/sugos-index",
-    "private": true,
-    "description": "Index of SUGOS projects",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugos-index",
-    "fork": false
-  },
-  {
     "name": "sg-react",
     "full_name": "realglobe-Inc/sg-react",
     "private": true,
@@ -96,19 +88,27 @@
     "fork": false
   },
   {
-    "name": "sugos-assets",
-    "full_name": "realglobe-Inc/sugos-assets",
-    "private": true,
-    "description": "Asset files for sugos",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugos-assets",
-    "fork": false
-  },
-  {
     "name": "sg-electron",
     "full_name": "realglobe-Inc/sg-electron",
     "private": true,
     "description": "Electron utility of SUGOS",
     "url": "https://api.github.com/repos/realglobe-Inc/sg-electron",
+    "fork": false
+  },
+  {
+    "name": "sugos-index",
+    "full_name": "realglobe-Inc/sugos-index",
+    "private": true,
+    "description": "Index of SUGOS projects",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugos-index",
+    "fork": false
+  },
+  {
+    "name": "sugos-assets",
+    "full_name": "realglobe-Inc/sugos-assets",
+    "private": true,
+    "description": "Asset files for sugos",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugos-assets",
     "fork": false
   },
   {
@@ -296,6 +296,22 @@
     "fork": false
   },
   {
+    "name": "sugo-interface-scsscompiler",
+    "full_name": "realglobe-Inc/sugo-interface-scsscompiler",
+    "private": true,
+    "description": "SUGOS interface of scss compiler",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-interface-scsscompiler",
+    "fork": false
+  },
+  {
+    "name": "sugo-interface-serialport",
+    "full_name": "realglobe-Inc/sugo-interface-serialport",
+    "private": true,
+    "description": "SUGOS interface to access serial ports",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-interface-serialport",
+    "fork": false
+  },
+  {
     "name": "sugo-ci-agent",
     "full_name": "realglobe-Inc/sugo-ci-agent",
     "private": true,
@@ -400,19 +416,19 @@
     "fork": false
   },
   {
-    "name": "sugos-secrets",
-    "full_name": "realglobe-Inc/sugos-secrets",
-    "private": true,
-    "description": "Secret values for SUGOS. This repository should not be public.",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugos-secrets",
-    "fork": false
-  },
-  {
     "name": "sugos-ci",
     "full_name": "realglobe-Inc/sugos-ci",
     "private": true,
     "description": "!! NO LONGER MAINTAINED",
     "url": "https://api.github.com/repos/realglobe-Inc/sugos-ci",
+    "fork": false
+  },
+  {
+    "name": "sugos-secrets",
+    "full_name": "realglobe-Inc/sugos-secrets",
+    "private": true,
+    "description": "Secret values for SUGOS. This repository should not be public.",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugos-secrets",
     "fork": false
   },
   {

@@ -24,16 +24,7 @@ module.exports = apeTmpl.readmeMdBud({
   overview: 'doc/overview.md',
   links: require('./doc/links'),
   vars: {
-    packages: [
-      { group: 'Core', desc: 'Core of SUGOS', modules: require('./lib/core') },
-      { group: 'Demo', desc: 'Demo for SUGOS scaffolding', modules: require('./lib/demo') },
-      { group: 'Example', desc: 'Example project using SUGOS framework', modules: require('./lib/example') },
-      { group: 'Interface', desc: 'Interface plugins for SUGOS-Spot', modules: require('./lib/interface') },
-      { group: 'Middleware', desc: 'Middleware plugins for SUGO-Cloud', modules: require('./lib/middleware') },
-      { group: 'Endpoint', desc: 'Endpoint plugins for SUGO-Cloud', modules: require('./lib/endpoint') },
-      { group: 'Agent', desc: 'Agent of endpoints', modules: require('./lib/agent') },
-      { group: 'Helper', desc: 'Helper modules.', modules: require('./lib/helper') }
-    ]
+    packages: require('./lib/grouped')
   }
 })
 

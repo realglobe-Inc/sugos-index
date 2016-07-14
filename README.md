@@ -128,6 +128,8 @@ Interface plugins for SUGOS-Spot
 | [sugo-interface-shell](https://github.com/realglobe-Inc/sugo-interface-shell) | Shell interface for SUGOS |
 | [sugo-interface-noop](https://github.com/realglobe-Inc/sugo-interface-noop) | Noop interface for SUGOS |
 | [sugo-interface-say](https://github.com/realglobe-Inc/sugo-interface-say) | Say command interface for SUGOS. (Supports only OSX) |
+| [sugo-interface-scsscompiler](https://github.com/realglobe-Inc/sugo-interface-scsscompiler) | SUGOS interface of scss compiler |
+| [sugo-interface-serialport](https://github.com/realglobe-Inc/sugo-interface-serialport) | SUGOS interface to access serial ports |
 <a name="package-group-Middleware"/>
 
 ### Middleware Packages
@@ -194,7 +196,7 @@ Helper modules.
 
 License
 -------
-This software is released under the [MIT License](https://github.com/realglobe-Inc/sugos-index/blob/master/LICENSE).
+This software is released under the [Apache-2.0 License](https://github.com/realglobe-Inc/sugos-index/blob/master/LICENSE).
 
 <!-- LICENSE End -->
 
