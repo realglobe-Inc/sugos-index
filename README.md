@@ -72,7 +72,7 @@ Packages
 + [Core Packages](#package-group-Core)
 + [Demo Packages](#package-group-Demo)
 + [Example Packages](#package-group-Example)
-+ [Interface Packages](#package-group-Interface)
++ [Module Packages](#package-group-Module)
 + [Middleware Packages](#package-group-Middleware)
 + [Endpoint Packages](#package-group-Endpoint)
 + [Agent Packages](#package-group-Agent)
@@ -87,11 +87,11 @@ Core of SUGOS
 
 | Name | Description |
 | ---- | ----------- |
-| [sugos](https://github.com/realglobe-Inc/sugos) | Super Ultra Gorgeous Outstanding Special frame work for WoT |
+| [sugos](https://github.com/realglobe-Inc/sugos) | A high-level RPC framework to make remote controlling super easy. |
 | [sugo-observer](https://github.com/realglobe-Inc/sugo-observer) | Remote observer for SUGOS |
 | [sugo-cloud](https://github.com/realglobe-Inc/sugo-cloud) | Cloud server of SUGOS |
-| [sugo-terminal](https://github.com/realglobe-Inc/sugo-terminal) | Remote terminal for SUGOS |
-| [sugo-spot](https://github.com/realglobe-Inc/sugo-spot) | Edge module of SUGOS |
+| [sugo-caller](https://github.com/realglobe-Inc/sugo-caller) | Caller component of SUGOS. |
+| [sugo-actor](https://github.com/realglobe-Inc/sugo-actor) | Actor component of SUGOS. |
 | [sugos.tech](https://github.com/realglobe-Inc/sugos.tech) | Homepage of sugos |
 <a name="package-group-Demo"/>
 
@@ -101,11 +101,11 @@ Demo for SUGOS scaffolding
 
 | Name | Description |
 | ---- | ----------- |
-| [sugo-demo-agent](https://github.com/realglobe-Inc/sugo-demo-agent) | Demo of sugo agent |
 | [sugo-demo-example](https://github.com/realglobe-Inc/sugo-demo-example) | Demo of sugo example |
+| [sugo-demo-agent](https://github.com/realglobe-Inc/sugo-demo-agent) | Demo of sugo agent |
 | [sugo-demo-site](https://github.com/realglobe-Inc/sugo-demo-site) | Demo of sugo site |
 | [sugo-demo-endpoint](https://github.com/realglobe-Inc/sugo-demo-endpoint) | Demo of sugo route |
-| [sugo-demo-interface](https://github.com/realglobe-Inc/sugo-demo-interface) | Demo of sugo interface |
+| [sugo-demo-module](https://github.com/realglobe-Inc/sugo-demo-module) | Demo of SUGO-Module |
 | [sugo-demo-middleware](https://github.com/realglobe-Inc/sugo-demo-middleware) | Demo of sugo middleware |
 | [sugo-demo-desktop](https://github.com/realglobe-Inc/sugo-demo-desktop) | Demo of desktop applications |
 <a name="package-group-Example"/>
@@ -117,19 +117,19 @@ Example project using SUGOS framework
 | Name | Description |
 | ---- | ----------- |
 | [sugo-example-say](https://github.com/realglobe-Inc/sugo-example-say) | Example of SUGOS to remote speech. |
-<a name="package-group-Interface"/>
+<a name="package-group-Module"/>
 
-### Interface Packages
+### Module Packages
 
-Interface plugins for SUGOS-Spot
+Module plugins for SUGOS-Actor
 
 | Name | Description |
 | ---- | ----------- |
-| [sugo-interface-shell](https://github.com/realglobe-Inc/sugo-interface-shell) | Shell interface for SUGOS |
-| [sugo-interface-noop](https://github.com/realglobe-Inc/sugo-interface-noop) | Noop interface for SUGOS |
-| [sugo-interface-say](https://github.com/realglobe-Inc/sugo-interface-say) | Say command interface for SUGOS. (Supports only OSX) |
-| [sugo-interface-scsscompiler](https://github.com/realglobe-Inc/sugo-interface-scsscompiler) | SUGOS interface of scss compiler |
-| [sugo-interface-serialport](https://github.com/realglobe-Inc/sugo-interface-serialport) | SUGOS interface to access serial ports |
+| [sugo-module-noop](https://github.com/realglobe-Inc/sugo-module-noop) | Noop module for SUGOS |
+| [sugo-module-shell](https://github.com/realglobe-Inc/sugo-module-shell) | Shell module for SUGOS |
+| [sugo-module-serialport](https://github.com/realglobe-Inc/sugo-module-serialport) | SUGOS module to access serial ports |
+| [sugo-module-say](https://github.com/realglobe-Inc/sugo-module-say) | Say command module for SUGOS. (Supports only OSX) |
+| [sugo-module-scss](https://github.com/realglobe-Inc/sugo-module-scss) | SUGOS interface of scss compiler |
 <a name="package-group-Middleware"/>
 
 ### Middleware Packages
@@ -149,8 +149,8 @@ Endpoint plugins for SUGO-Cloud
 | ---- | ----------- |
 | [sugo-endpoint-zip](https://github.com/realglobe-Inc/sugo-endpoint-zip) | Endpoint to download files as zip |
 | [sugo-endpoint-noop](https://github.com/realglobe-Inc/sugo-endpoint-noop) | Endpoint to do nothing. |
-| [sugo-endpoint-compile](https://github.com/realglobe-Inc/sugo-endpoint-compile) | Endpoint to compile javascripts. |
 | [sugo-endpoint-file](https://github.com/realglobe-Inc/sugo-endpoint-file) | Endpoint to handle files |
+| [sugo-endpoint-compile](https://github.com/realglobe-Inc/sugo-endpoint-compile) | Endpoint to compile javascripts. |
 <a name="package-group-Agent"/>
 
 ### Agent Packages
@@ -159,15 +159,15 @@ Agent of endpoints
 
 | Name | Description |
 | ---- | ----------- |
-| [sugo-agent-base](https://github.com/realglobe-Inc/sugo-agent-base) | Base class of HTTP clients for SUGOS |
 | [sugo-agent-file](https://github.com/realglobe-Inc/sugo-agent-file) | Client for sugo-endpoint-file |
+| [sugo-agent-base](https://github.com/realglobe-Inc/sugo-agent-base) | Base class of HTTP clients for SUGOS |
 | [sugo-agent-compile](https://github.com/realglobe-Inc/sugo-agent-compile) | Client for sugo-endpoint-compile |
 | [sugo-agent-zip](https://github.com/realglobe-Inc/sugo-agent-zip) | Client for sugo-endpoint-zip |
 <a name="package-group-Helper"/>
 
 ### Helper Packages
 
-Helper modules.
+Helper packages.
 
 | Name | Description |
 | ---- | ----------- |

@@ -1,14 +1,14 @@
 /**
- * Test case for interface.
+ * Test case for module.
  * Runs with mocha.
  */
 'use strict'
 
-const interface_ = require('../lib/interface.js')
+const module_ = require('../lib/module.js')
 const assert = require('assert')
 const co = require('co')
 
-describe('interface', function () {
+describe('module', function () {
   this.timeout(3000)
 
   before(() => co(function * () {
@@ -19,8 +19,8 @@ describe('interface', function () {
 
   }))
 
-  it('Interface', () => co(function * () {
-
+  it('Module', () => co(function * () {
+    assert.ok(module_)
   }))
 })
 

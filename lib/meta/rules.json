@@ -2,8 +2,8 @@
   "core": [
     "sugos",
     "sugo-cloud",
-    "sugo-spot",
-    "sugo-terminal",
+    "sugo-actor",
+    "sugo-caller",
     "sugo-observer",
     "sugos.tech"
   ],
@@ -13,8 +13,8 @@
   "example": [
     "sugo-example-*"
   ],
-  "interface": [
-    "sugo-interface-*"
+  "module": [
+    "sugo-module-*"
   ],
   "middleware": [
     "sugo-middleware-*"
