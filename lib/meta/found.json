@@ -88,14 +88,6 @@
     "fork": false
   },
   {
-    "name": "sugo-agent-base",
-    "full_name": "realglobe-Inc/sugo-agent-base",
-    "private": true,
-    "description": "Base class of HTTP clients for SUGOS",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-agent-base",
-    "fork": false
-  },
-  {
     "name": "sugo-demo-desktop",
     "full_name": "realglobe-Inc/sugo-demo-desktop",
     "private": true,
@@ -133,6 +125,14 @@
     "private": true,
     "description": "Shell module for SUGOS",
     "url": "https://api.github.com/repos/realglobe-Inc/sugo-module-shell",
+    "fork": false
+  },
+  {
+    "name": "sugo-agent-base",
+    "full_name": "realglobe-Inc/sugo-agent-base",
+    "private": true,
+    "description": "Base class of HTTP clients for SUGOS",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-agent-base",
     "fork": false
   },
   {
@@ -240,14 +240,6 @@
     "fork": false
   },
   {
-    "name": "sugo-agent-file",
-    "full_name": "realglobe-Inc/sugo-agent-file",
-    "private": true,
-    "description": "Client for sugo-endpoint-file",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-agent-file",
-    "fork": false
-  },
-  {
     "name": "sugo-ci-module",
     "full_name": "realglobe-Inc/sugo-ci-module",
     "private": true,
@@ -285,6 +277,14 @@
     "private": true,
     "description": "SUGOS module to oparate PLEN",
     "url": "https://api.github.com/repos/realglobe-Inc/sugo-module-plen",
+    "fork": false
+  },
+  {
+    "name": "sugo-agent-file",
+    "full_name": "realglobe-Inc/sugo-agent-file",
+    "private": true,
+    "description": "Client for sugo-endpoint-file",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-agent-file",
     "fork": false
   },
   {
@@ -400,19 +400,19 @@
     "fork": false
   },
   {
-    "name": "sg-validator",
-    "full_name": "realglobe-Inc/sg-validator",
+    "name": "sg-storage",
+    "full_name": "realglobe-Inc/sg-storage",
     "private": true,
-    "description": "JSON schema validator for SUGOS",
-    "url": "https://api.github.com/repos/realglobe-Inc/sg-validator",
+    "description": "On-memory storage for SUGOS",
+    "url": "https://api.github.com/repos/realglobe-Inc/sg-storage",
     "fork": false
   },
   {
-    "name": "sg-server",
-    "full_name": "realglobe-Inc/sg-server",
+    "name": "sg-socket-client",
+    "full_name": "realglobe-Inc/sg-socket-client",
     "private": true,
-    "description": "HTTP web server for SUGOS",
-    "url": "https://api.github.com/repos/realglobe-Inc/sg-server",
+    "description": "Web socket client for SUGOS",
+    "url": "https://api.github.com/repos/realglobe-Inc/sg-socket-client",
     "fork": false
   },
   {
