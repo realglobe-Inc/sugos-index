@@ -48,19 +48,19 @@
     "fork": false
   },
   {
-    "name": "sugo-scaffold",
-    "full_name": "realglobe-Inc/sugo-scaffold",
-    "private": true,
-    "description": "Scaffold for SUGOS",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-scaffold",
-    "fork": false
-  },
-  {
     "name": "sugo-cloud",
     "full_name": "realglobe-Inc/sugo-cloud",
     "private": true,
     "description": "Cloud server of SUGOS",
     "url": "https://api.github.com/repos/realglobe-Inc/sugo-cloud",
+    "fork": false
+  },
+  {
+    "name": "sugo-scaffold",
+    "full_name": "realglobe-Inc/sugo-scaffold",
+    "private": true,
+    "description": "Scaffold for SUGOS",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-scaffold",
     "fork": false
   },
   {
