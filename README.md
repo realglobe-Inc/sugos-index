@@ -182,8 +182,8 @@ Helper packages.
 | [sg-socket](https://github.com/realglobe-Inc/sg-socket) | Web socket server for SUGOS |
 | [sg-socket-client](https://github.com/realglobe-Inc/sg-socket-client) | Web socket client for SUGOS |
 | [sg-storage](https://github.com/realglobe-Inc/sg-storage) | On-memory storage for SUGOS |
-| [sg-storage](https://github.com/realglobe-Inc/sg-storage) | On-memory storage for SUGOS |
-| [sg-socket-client](https://github.com/realglobe-Inc/sg-socket-client) | Web socket client for SUGOS |
+| [sg-validator](https://github.com/realglobe-Inc/sg-validator) | JSON schema validator for SUGOS |
+| [sg-server](https://github.com/realglobe-Inc/sg-server) | HTTP web server for SUGOS |
 | [sg-schemas](https://github.com/realglobe-Inc/sg-schemas) | Collection of JSON schemas for SUGOS |
 
 
