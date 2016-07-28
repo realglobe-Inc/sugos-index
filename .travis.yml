@@ -20,7 +20,7 @@ after_success:
 - ./ci/build.js
 - ./ci/travis/set_git_config.js
 - git add .
-- git commit -m "Update from Travis CI"
+- git commit -m "[ci skip]Update from Travis CI"
 - git push origin HEAD:master
 env:
   secure: "Klrxhmp8AmtZdh5UXbQC2V0OlctEopSaqrDtnlJQBVRlkGsLCszpYn7USWb2Sbg8uycJAkmjl9GWZ9o8ZbvEdM2iBaRvqv+0awsotbx57fH64AxnOB8IXI+SiuGFQA+Y69aOQw6djncb99DYaDZP3ImTUr95meV0dqVp6dyLmUU88eXeN1LAXw+ZtOwR6LPIcEfrMaLW8jtVEOycx11lF5YC/QuHFC2T9bAaOEs9niQ4/SmPjLUe/8c+xMMt8MOKOueQvuabpC8wZbJ/NONQYFmSsBgdto602xAx1iV9OFPbQDKdRkzIb/UeI+ZK1sazQiQvWsnxLwjEn0hFvj0WY8ssQvrgqRzfWrrhcQHt0XAGRVYkaxe3EwDlYiQSxLaZ2QD4XIDFEj2CI+n9AqP4okn80nCITY8jKZD73Bz83V2rQsh/BR4s3limSguyLNi2VMWX+1eNS23KehF7zIofT8++buD2NccQATBeR+3tTcvUCgYCOLSrejcJR6GsjqF2pY+AJ3xEv4Pt4EfNPJDmAp64rqpudHfwlXMeE4MXX3h9xHYEPjVNFWEANMTY8SKxWFRoI6P/slenxjV9iT3ytbaoCzrRcDcunNCe//d73K7ZUQUf6dXsxe8a4GmIZjU+aqMERXO6ZAp4sOeB4zGf4hEDGFjcp5M7UJMkq767yGY="
