@@ -18,6 +18,7 @@ script:
 after_success:
 - ./ci/search.js
 - ./ci/build.js
+- ./ci/travis/set_git_config.js
 - git add .
 - git commit -m "Update from Travis CI"
 - git push origin HEAD:master
