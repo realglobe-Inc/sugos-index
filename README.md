@@ -53,6 +53,7 @@ Index of SUGOS projects
 <!-- Section from "doc/guides/01.Installation.md.hbs" Start -->
 
 <a name="section-doc-guides-01-installation-md"></a>
+
 Installation
 -----
 
@@ -66,6 +67,7 @@ $ npm install sugos-index --save
 <!-- Section from "doc/guides/02.Packages.md.hbs" Start -->
 
 <a name="section-doc-guides-02-packages-md"></a>
+
 Packages
 ---------
 
