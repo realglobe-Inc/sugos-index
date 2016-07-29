@@ -283,7 +283,7 @@
     "name": "sugo-example-say",
     "full_name": "realglobe-Inc/sugo-example-say",
     "private": true,
-    "description": "Example of SUGOS to remote speech.",
+    "description": "SUGOS example project to invoke `say` command on remote MAC (OSX system is required)",
     "url": "https://api.github.com/repos/realglobe-Inc/sugo-example-say",
     "fork": false
   },
