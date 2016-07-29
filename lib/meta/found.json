@@ -384,6 +384,14 @@
     "fork": false
   },
   {
+    "name": "sugo-example-plen",
+    "full_name": "realglobe-Inc/sugo-example-plen",
+    "private": true,
+    "description": "SUGOS example project to contorl PLEN",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-example-plen",
+    "fork": false
+  },
+  {
     "name": "sugo-example-roomba",
     "full_name": "realglobe-Inc/sugo-example-roomba",
     "private": true,
