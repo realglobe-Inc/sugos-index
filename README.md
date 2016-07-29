@@ -118,7 +118,7 @@ Example project using SUGOS framework
 
 | Name | Description |
 | ---- | ----------- |
-| [sugo-example-say](https://github.com/realglobe-Inc/sugo-example-say) | Example of SUGOS to remote speech. |
+| [sugo-example-say](https://github.com/realglobe-Inc/sugo-example-say) | SUGOS example project to invoke &#x60;say&#x60; command on remote MAC (OSX system is required) |
 <a name="package-group-Module"/>
 
 ### Module Packages

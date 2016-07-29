@@ -400,6 +400,14 @@
     "fork": false
   },
   {
+    "name": "sugos-secrets",
+    "full_name": "realglobe-Inc/sugos-secrets",
+    "private": true,
+    "description": "Secret values for SUGOS. This repository should not be public.",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugos-secrets",
+    "fork": false
+  },
+  {
     "name": "sg-validator",
     "full_name": "realglobe-Inc/sg-validator",
     "private": true,
@@ -421,14 +429,6 @@
     "private": true,
     "description": "On-memory storage for SUGOS",
     "url": "https://api.github.com/repos/realglobe-Inc/sg-storage",
-    "fork": false
-  },
-  {
-    "name": "sugos-secrets",
-    "full_name": "realglobe-Inc/sugos-secrets",
-    "private": true,
-    "description": "Secret values for SUGOS. This repository should not be public.",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugos-secrets",
     "fork": false
   },
   {
