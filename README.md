@@ -120,6 +120,7 @@ Example project using SUGOS framework
 | ---- | ----------- |
 | [sugo-example-rapiro](https://github.com/realglobe-Inc/sugo-example-rapiro) | SUGOS example project to contorl RAPIRO. |
 | [sugo-example-say](https://github.com/realglobe-Inc/sugo-example-say) | SUGOS example project to invoke &#x60;say&#x60; command on remote MAC (OSX system is required) |
+| [sugo-example-plen](https://github.com/realglobe-Inc/sugo-example-plen) | SUGOS example project to contorl PLEN |
 | [sugo-example-roomba](https://github.com/realglobe-Inc/sugo-example-roomba) | SUGOS example project to contorl roomba |
 <a name="package-group-Module"/>
 
