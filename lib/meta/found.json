@@ -296,6 +296,22 @@
     "fork": false
   },
   {
+    "name": "sg-socket",
+    "full_name": "realglobe-Inc/sg-socket",
+    "private": true,
+    "description": "Web socket server for SUGOS",
+    "url": "https://api.github.com/repos/realglobe-Inc/sg-socket",
+    "fork": false
+  },
+  {
+    "name": "sg-react-components",
+    "full_name": "realglobe-Inc/sg-react-components",
+    "private": true,
+    "description": "React components for SUGOS project",
+    "url": "https://api.github.com/repos/realglobe-Inc/sg-react-components",
+    "fork": false
+  },
+  {
     "name": "sugo-module-say",
     "full_name": "realglobe-Inc/sugo-module-say",
     "private": true,
@@ -325,22 +341,6 @@
     "private": true,
     "description": null,
     "url": "https://api.github.com/repos/realglobe-Inc/sugo-actor-python",
-    "fork": false
-  },
-  {
-    "name": "sg-socket",
-    "full_name": "realglobe-Inc/sg-socket",
-    "private": true,
-    "description": "Web socket server for SUGOS",
-    "url": "https://api.github.com/repos/realglobe-Inc/sg-socket",
-    "fork": false
-  },
-  {
-    "name": "sg-react-components",
-    "full_name": "realglobe-Inc/sg-react-components",
-    "private": true,
-    "description": "React components for SUGOS project",
-    "url": "https://api.github.com/repos/realglobe-Inc/sg-react-components",
     "fork": false
   },
   {
