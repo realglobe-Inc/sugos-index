@@ -48,19 +48,19 @@
     "fork": false
   },
   {
-    "name": "sugo-actor",
-    "full_name": "realglobe-Inc/sugo-actor",
-    "private": true,
-    "description": "Actor component of SUGOS.",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-actor",
-    "fork": false
-  },
-  {
     "name": "sugo-caller",
     "full_name": "realglobe-Inc/sugo-caller",
     "private": true,
     "description": "Caller component of SUGOS.",
     "url": "https://api.github.com/repos/realglobe-Inc/sugo-caller",
+    "fork": false
+  },
+  {
+    "name": "sugo-actor",
+    "full_name": "realglobe-Inc/sugo-actor",
+    "private": true,
+    "description": "Actor component of SUGOS.",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-actor",
     "fork": false
   },
   {
@@ -136,6 +136,30 @@
     "fork": false
   },
   {
+    "name": "sugo-demo-agent",
+    "full_name": "realglobe-Inc/sugo-demo-agent",
+    "private": true,
+    "description": "Demo of sugo agent",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-demo-agent",
+    "fork": false
+  },
+  {
+    "name": "sugo-demo-site",
+    "full_name": "realglobe-Inc/sugo-demo-site",
+    "private": true,
+    "description": "Demo of sugo site",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-demo-site",
+    "fork": false
+  },
+  {
+    "name": "sugo-demo-example",
+    "full_name": "realglobe-Inc/sugo-demo-example",
+    "private": true,
+    "description": "Demo of sugo example",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-demo-example",
+    "fork": false
+  },
+  {
     "name": "sugo-unit-lib",
     "full_name": "realglobe-Inc/sugo-unit-lib",
     "private": true,
@@ -181,30 +205,6 @@
     "private": true,
     "description": "SUGOS example project to contorl RAPIRO.",
     "url": "https://api.github.com/repos/realglobe-Inc/sugo-example-rapiro",
-    "fork": false
-  },
-  {
-    "name": "sugo-demo-agent",
-    "full_name": "realglobe-Inc/sugo-demo-agent",
-    "private": true,
-    "description": "Demo of sugo agent",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-demo-agent",
-    "fork": false
-  },
-  {
-    "name": "sugo-demo-example",
-    "full_name": "realglobe-Inc/sugo-demo-example",
-    "private": true,
-    "description": "Demo of sugo example",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-demo-example",
-    "fork": false
-  },
-  {
-    "name": "sugo-demo-site",
-    "full_name": "realglobe-Inc/sugo-demo-site",
-    "private": true,
-    "description": "Demo of sugo site",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-demo-site",
     "fork": false
   },
   {
