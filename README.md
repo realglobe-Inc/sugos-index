@@ -92,8 +92,8 @@ Core of SUGOS
 | [sugos](https://github.com/realglobe-Inc/sugos) | A high-level RPC framework to make remote controlling super easy. |
 | [sugo-observer](https://github.com/realglobe-Inc/sugo-observer) | Remote observer for SUGOS |
 | [sugo-cloud](https://github.com/realglobe-Inc/sugo-cloud) | Cloud server of SUGOS |
-| [sugo-actor](https://github.com/realglobe-Inc/sugo-actor) | Actor component of SUGOS. |
 | [sugo-caller](https://github.com/realglobe-Inc/sugo-caller) | Caller component of SUGOS. |
+| [sugo-actor](https://github.com/realglobe-Inc/sugo-actor) | Actor component of SUGOS. |
 | [sugos.tech](https://github.com/realglobe-Inc/sugos.tech) | Homepage of sugos |
 <a name="package-group-Demo"/>
 
@@ -104,10 +104,10 @@ Demo for SUGOS scaffolding
 | Name | Description |
 | ---- | ----------- |
 | [sugo-demo-middleware](https://github.com/realglobe-Inc/sugo-demo-middleware) | Demo of sugo middleware |
-| [sugo-demo-desktop](https://github.com/realglobe-Inc/sugo-demo-desktop) | Demo of desktop applications |
 | [sugo-demo-agent](https://github.com/realglobe-Inc/sugo-demo-agent) | Demo of sugo agent |
-| [sugo-demo-example](https://github.com/realglobe-Inc/sugo-demo-example) | Demo of sugo example |
 | [sugo-demo-site](https://github.com/realglobe-Inc/sugo-demo-site) | Demo of sugo site |
+| [sugo-demo-example](https://github.com/realglobe-Inc/sugo-demo-example) | Demo of sugo example |
+| [sugo-demo-desktop](https://github.com/realglobe-Inc/sugo-demo-desktop) | Demo of desktop applications |
 | [sugo-demo-endpoint](https://github.com/realglobe-Inc/sugo-demo-endpoint) | Demo of sugo route |
 | [sugo-demo-module](https://github.com/realglobe-Inc/sugo-demo-module) | Demo of SUGO-Module |
 <a name="package-group-Example"/>
