@@ -32,19 +32,19 @@
     "fork": false
   },
   {
-    "name": "sugo-scaffold",
-    "full_name": "realglobe-Inc/sugo-scaffold",
-    "private": true,
-    "description": "Scaffold for SUGOS",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-scaffold",
-    "fork": false
-  },
-  {
     "name": "sugo-hub",
     "full_name": "realglobe-Inc/sugo-hub",
     "private": true,
     "description": "Cloud server of SUGOS",
     "url": "https://api.github.com/repos/realglobe-Inc/sugo-hub",
+    "fork": false
+  },
+  {
+    "name": "sugo-scaffold",
+    "full_name": "realglobe-Inc/sugo-scaffold",
+    "private": true,
+    "description": "Scaffold for SUGOS",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-scaffold",
     "fork": false
   },
   {
@@ -61,6 +61,30 @@
     "private": true,
     "description": "Caller component of SUGOS.",
     "url": "https://api.github.com/repos/realglobe-Inc/sugo-caller",
+    "fork": false
+  },
+  {
+    "name": "sg-electron",
+    "full_name": "realglobe-Inc/sg-electron",
+    "private": true,
+    "description": "Electron utility of SUGOS",
+    "url": "https://api.github.com/repos/realglobe-Inc/sg-electron",
+    "fork": false
+  },
+  {
+    "name": "sg-react",
+    "full_name": "realglobe-Inc/sg-react",
+    "private": true,
+    "description": "React utilities for SUGOS",
+    "url": "https://api.github.com/repos/realglobe-Inc/sg-react",
+    "fork": false
+  },
+  {
+    "name": "sugos-index",
+    "full_name": "realglobe-Inc/sugos-index",
+    "private": true,
+    "description": "Index of SUGOS projects",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugos-index",
     "fork": false
   },
   {
@@ -109,30 +133,6 @@
     "private": true,
     "description": "Demo of sugo middleware",
     "url": "https://api.github.com/repos/realglobe-Inc/sugo-demo-middleware",
-    "fork": false
-  },
-  {
-    "name": "sg-electron",
-    "full_name": "realglobe-Inc/sg-electron",
-    "private": true,
-    "description": "Electron utility of SUGOS",
-    "url": "https://api.github.com/repos/realglobe-Inc/sg-electron",
-    "fork": false
-  },
-  {
-    "name": "sg-react",
-    "full_name": "realglobe-Inc/sg-react",
-    "private": true,
-    "description": "React utilities for SUGOS",
-    "url": "https://api.github.com/repos/realglobe-Inc/sg-react",
-    "fork": false
-  },
-  {
-    "name": "sugos-index",
-    "full_name": "realglobe-Inc/sugos-index",
-    "private": true,
-    "description": "Index of SUGOS projects",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugos-index",
     "fork": false
   },
   {
@@ -392,27 +392,19 @@
     "fork": false
   },
   {
+    "name": "sg-socket-client",
+    "full_name": "realglobe-Inc/sg-socket-client",
+    "private": true,
+    "description": "Web socket client for SUGOS",
+    "url": "https://api.github.com/repos/realglobe-Inc/sg-socket-client",
+    "fork": false
+  },
+  {
     "name": "sg-socket",
     "full_name": "realglobe-Inc/sg-socket",
     "private": true,
     "description": "Web socket server for SUGOS",
     "url": "https://api.github.com/repos/realglobe-Inc/sg-socket",
-    "fork": false
-  },
-  {
-    "name": "sg-react-components",
-    "full_name": "realglobe-Inc/sg-react-components",
-    "private": true,
-    "description": "React components for SUGOS project",
-    "url": "https://api.github.com/repos/realglobe-Inc/sg-react-components",
-    "fork": false
-  },
-  {
-    "name": "sg-server",
-    "full_name": "realglobe-Inc/sg-server",
-    "private": true,
-    "description": "HTTP web server for SUGOS",
-    "url": "https://api.github.com/repos/realglobe-Inc/sg-server",
     "fork": false
   },
   {
