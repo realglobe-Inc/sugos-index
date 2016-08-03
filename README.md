@@ -106,8 +106,8 @@ Demo for SUGOS scaffolding
 | [sugo-demo-module](https://github.com/realglobe-Inc/sugo-demo-module) | Demo of SUGO-Module |
 | [sugo-demo-endpoint](https://github.com/realglobe-Inc/sugo-demo-endpoint) | Demo of sugo route |
 | [sugo-demo-agent](https://github.com/realglobe-Inc/sugo-demo-agent) | Demo of sugo agent |
-| [sugo-demo-site](https://github.com/realglobe-Inc/sugo-demo-site) | Demo of sugo site |
 | [sugo-demo-example](https://github.com/realglobe-Inc/sugo-demo-example) | Demo of sugo example |
+| [sugo-demo-site](https://github.com/realglobe-Inc/sugo-demo-site) | Demo of sugo site |
 | [sugo-demo-middleware](https://github.com/realglobe-Inc/sugo-demo-middleware) | Demo of sugo middleware |
 | [sugo-demo-desktop](https://github.com/realglobe-Inc/sugo-demo-desktop) | Demo of desktop applications |
 <a name="package-group-Example"/>
@@ -183,7 +183,6 @@ Helper packages.
 | [sg-compiler](https://github.com/realglobe-Inc/sg-compiler) | Javascript compiler for sugos |
 | [sg-validator](https://github.com/realglobe-Inc/sg-validator) | JSON schema validator for SUGOS |
 | [sg-server](https://github.com/realglobe-Inc/sg-server) | HTTP web server for SUGOS |
-| [sg-react-components](https://github.com/realglobe-Inc/sg-react-components) | React components for SUGOS project |
 | [sg-validator](https://github.com/realglobe-Inc/sg-validator) | JSON schema validator for SUGOS |
 | [sg-server](https://github.com/realglobe-Inc/sg-server) | HTTP web server for SUGOS |
 | [sg-storage](https://github.com/realglobe-Inc/sg-storage) | On-memory storage for SUGOS |
