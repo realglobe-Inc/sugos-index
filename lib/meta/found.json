@@ -16,22 +16,6 @@
     "fork": false
   },
   {
-    "name": "sugo-actor",
-    "full_name": "realglobe-Inc/sugo-actor",
-    "private": true,
-    "description": "Actor component of SUGOS.",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-actor",
-    "fork": false
-  },
-  {
-    "name": "sugo-caller",
-    "full_name": "realglobe-Inc/sugo-caller",
-    "private": true,
-    "description": "Caller component of SUGOS.",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-caller",
-    "fork": false
-  },
-  {
     "name": "sugo-docs",
     "full_name": "realglobe-Inc/sugo-docs",
     "private": true,
@@ -64,6 +48,22 @@
     "fork": false
   },
   {
+    "name": "sugo-actor",
+    "full_name": "realglobe-Inc/sugo-actor",
+    "private": true,
+    "description": "Actor component of SUGOS.",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-actor",
+    "fork": false
+  },
+  {
+    "name": "sugo-caller",
+    "full_name": "realglobe-Inc/sugo-caller",
+    "private": true,
+    "description": "Caller component of SUGOS.",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-caller",
+    "fork": false
+  },
+  {
     "name": "sg-electron",
     "full_name": "realglobe-Inc/sg-electron",
     "private": true,
@@ -88,75 +88,11 @@
     "fork": false
   },
   {
-    "name": "sugo-demo-agent",
-    "full_name": "realglobe-Inc/sugo-demo-agent",
+    "name": "sg-compiler",
+    "full_name": "realglobe-Inc/sg-compiler",
     "private": true,
-    "description": "Demo of sugo agent",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-demo-agent",
-    "fork": false
-  },
-  {
-    "name": "sugo-demo-example",
-    "full_name": "realglobe-Inc/sugo-demo-example",
-    "private": true,
-    "description": "Demo of sugo example",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-demo-example",
-    "fork": false
-  },
-  {
-    "name": "sugo-demo-site",
-    "full_name": "realglobe-Inc/sugo-demo-site",
-    "private": true,
-    "description": "Demo of sugo site",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-demo-site",
-    "fork": false
-  },
-  {
-    "name": "sg-templates",
-    "full_name": "realglobe-Inc/sg-templates",
-    "private": true,
-    "description": "Templates for SUGOS",
-    "url": "https://api.github.com/repos/realglobe-Inc/sg-templates",
-    "fork": false
-  },
-  {
-    "name": "sugo-demo-module",
-    "full_name": "realglobe-Inc/sugo-demo-module",
-    "private": true,
-    "description": "Demo of SUGO-Module",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-demo-module",
-    "fork": false
-  },
-  {
-    "name": "sugo-demo-endpoint",
-    "full_name": "realglobe-Inc/sugo-demo-endpoint",
-    "private": true,
-    "description": "Demo of sugo route",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-demo-endpoint",
-    "fork": false
-  },
-  {
-    "name": "sg-check",
-    "full_name": "realglobe-Inc/sg-check",
-    "private": true,
-    "description": "Checking utilify for SUGOS",
-    "url": "https://api.github.com/repos/realglobe-Inc/sg-check",
-    "fork": false
-  },
-  {
-    "name": "sugo-unit-lib",
-    "full_name": "realglobe-Inc/sugo-unit-lib",
-    "private": true,
-    "description": "",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-unit-lib",
-    "fork": false
-  },
-  {
-    "name": "sugo-adaptor-kinect",
-    "full_name": "realglobe-Inc/sugo-adaptor-kinect",
-    "private": true,
-    "description": "sugo adaptor plugin for kinect.",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-adaptor-kinect",
+    "description": "Javascript compiler for sugos",
+    "url": "https://api.github.com/repos/realglobe-Inc/sg-compiler",
     "fork": false
   },
   {
@@ -176,6 +112,22 @@
     "fork": false
   },
   {
+    "name": "sugo-module-base",
+    "full_name": "realglobe-Inc/sugo-module-base",
+    "private": true,
+    "description": "Base module for SUGOS",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-module-base",
+    "fork": false
+  },
+  {
+    "name": "sugos.tech",
+    "full_name": "realglobe-Inc/sugos.tech",
+    "private": true,
+    "description": "Homepage of sugos",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugos.tech",
+    "fork": false
+  },
+  {
     "name": "sugo-demo-middleware",
     "full_name": "realglobe-Inc/sugo-demo-middleware",
     "private": true,
@@ -184,19 +136,27 @@
     "fork": false
   },
   {
+    "name": "sugo-unit-lib",
+    "full_name": "realglobe-Inc/sugo-unit-lib",
+    "private": true,
+    "description": "",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-unit-lib",
+    "fork": false
+  },
+  {
+    "name": "sugo-adaptor-kinect",
+    "full_name": "realglobe-Inc/sugo-adaptor-kinect",
+    "private": true,
+    "description": "sugo adaptor plugin for kinect.",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-adaptor-kinect",
+    "fork": false
+  },
+  {
     "name": "sugo-demo-desktop",
     "full_name": "realglobe-Inc/sugo-demo-desktop",
     "private": true,
     "description": "Demo of desktop applications",
     "url": "https://api.github.com/repos/realglobe-Inc/sugo-demo-desktop",
-    "fork": false
-  },
-  {
-    "name": "sugo-module-base",
-    "full_name": "realglobe-Inc/sugo-module-base",
-    "private": true,
-    "description": "Base module for SUGOS",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-module-base",
     "fork": false
   },
   {
@@ -224,19 +184,27 @@
     "fork": false
   },
   {
-    "name": "sg-compiler",
-    "full_name": "realglobe-Inc/sg-compiler",
+    "name": "sugo-demo-agent",
+    "full_name": "realglobe-Inc/sugo-demo-agent",
     "private": true,
-    "description": "Javascript compiler for sugos",
-    "url": "https://api.github.com/repos/realglobe-Inc/sg-compiler",
+    "description": "Demo of sugo agent",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-demo-agent",
     "fork": false
   },
   {
-    "name": "sugos.tech",
-    "full_name": "realglobe-Inc/sugos.tech",
+    "name": "sugo-demo-site",
+    "full_name": "realglobe-Inc/sugo-demo-site",
     "private": true,
-    "description": "Homepage of sugos",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugos.tech",
+    "description": "Demo of sugo site",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-demo-site",
+    "fork": false
+  },
+  {
+    "name": "sugo-demo-example",
+    "full_name": "realglobe-Inc/sugo-demo-example",
+    "private": true,
+    "description": "Demo of sugo example",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-demo-example",
     "fork": false
   },
   {
@@ -248,19 +216,19 @@
     "fork": false
   },
   {
-    "name": "sugo-module-rapiro",
-    "full_name": "realglobe-Inc/sugo-module-rapiro",
-    "private": true,
-    "description": "SUGOS module to control RAPIRO",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-module-rapiro",
-    "fork": false
-  },
-  {
     "name": "sugo-module-plen",
     "full_name": "realglobe-Inc/sugo-module-plen",
     "private": true,
     "description": "SUGOS module to oparate PLEN",
     "url": "https://api.github.com/repos/realglobe-Inc/sugo-module-plen",
+    "fork": false
+  },
+  {
+    "name": "sugo-module-rapiro",
+    "full_name": "realglobe-Inc/sugo-module-rapiro",
+    "private": true,
+    "description": "SUGOS module to control RAPIRO",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-module-rapiro",
     "fork": false
   },
   {
@@ -280,14 +248,6 @@
     "fork": false
   },
   {
-    "name": "sugo-ci-module",
-    "full_name": "realglobe-Inc/sugo-ci-module",
-    "private": true,
-    "description": "CI scripts for module projects.",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-ci-module",
-    "fork": false
-  },
-  {
     "name": "sugo-agent-file",
     "full_name": "realglobe-Inc/sugo-agent-file",
     "private": true,
@@ -296,11 +256,99 @@
     "fork": false
   },
   {
+    "name": "sugo-ci-module",
+    "full_name": "realglobe-Inc/sugo-ci-module",
+    "private": true,
+    "description": "CI scripts for module projects.",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-ci-module",
+    "fork": false
+  },
+  {
+    "name": "sg-templates",
+    "full_name": "realglobe-Inc/sg-templates",
+    "private": true,
+    "description": "Templates for SUGOS",
+    "url": "https://api.github.com/repos/realglobe-Inc/sg-templates",
+    "fork": false
+  },
+  {
+    "name": "sugo-demo-endpoint",
+    "full_name": "realglobe-Inc/sugo-demo-endpoint",
+    "private": true,
+    "description": "Demo of sugo route",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-demo-endpoint",
+    "fork": false
+  },
+  {
+    "name": "sugo-demo-module",
+    "full_name": "realglobe-Inc/sugo-demo-module",
+    "private": true,
+    "description": "Demo of SUGO-Module",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-demo-module",
+    "fork": false
+  },
+  {
+    "name": "sg-check",
+    "full_name": "realglobe-Inc/sg-check",
+    "private": true,
+    "description": "Checking utilify for SUGOS",
+    "url": "https://api.github.com/repos/realglobe-Inc/sg-check",
+    "fork": false
+  },
+  {
+    "name": "sugo-module-say",
+    "full_name": "realglobe-Inc/sugo-module-say",
+    "private": true,
+    "description": "Say command module for SUGOS. (Supports only OSX)",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-module-say",
+    "fork": false
+  },
+  {
+    "name": "sugo-module-scss",
+    "full_name": "realglobe-Inc/sugo-module-scss",
+    "private": true,
+    "description": "SUGOS interface of scss compiler",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-module-scss",
+    "fork": false
+  },
+  {
+    "name": "sugo-module-serialport",
+    "full_name": "realglobe-Inc/sugo-module-serialport",
+    "private": true,
+    "description": "SUGOS module to access serial ports",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-module-serialport",
+    "fork": false
+  },
+  {
+    "name": "sugo-actor-python",
+    "full_name": "realglobe-Inc/sugo-actor-python",
+    "private": true,
+    "description": null,
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-actor-python",
+    "fork": false
+  },
+  {
+    "name": "sg-socket-client",
+    "full_name": "realglobe-Inc/sg-socket-client",
+    "private": true,
+    "description": "Web socket client for SUGOS",
+    "url": "https://api.github.com/repos/realglobe-Inc/sg-socket-client",
+    "fork": false
+  },
+  {
     "name": "sugo-endpoint-file",
     "full_name": "realglobe-Inc/sugo-endpoint-file",
     "private": true,
     "description": "Endpoint to handle files",
     "url": "https://api.github.com/repos/realglobe-Inc/sugo-endpoint-file",
+    "fork": false
+  },
+  {
+    "name": "sugo-example-roomba",
+    "full_name": "realglobe-Inc/sugo-example-roomba",
+    "private": true,
+    "description": "SUGOS example project to contorl roomba",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-example-roomba",
     "fork": false
   },
   {
@@ -317,14 +365,6 @@
     "private": true,
     "description": "SUGOS example project to contorl PLEN",
     "url": "https://api.github.com/repos/realglobe-Inc/sugo-example-plen",
-    "fork": false
-  },
-  {
-    "name": "sugo-example-roomba",
-    "full_name": "realglobe-Inc/sugo-example-roomba",
-    "private": true,
-    "description": "SUGOS example project to contorl roomba",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-example-roomba",
     "fork": false
   },
   {
@@ -360,51 +400,27 @@
     "fork": false
   },
   {
-    "name": "sugo-module-scss",
-    "full_name": "realglobe-Inc/sugo-module-scss",
+    "name": "sg-socket",
+    "full_name": "realglobe-Inc/sg-socket",
     "private": true,
-    "description": "SUGOS interface of scss compiler",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-module-scss",
+    "description": "Web socket server for SUGOS",
+    "url": "https://api.github.com/repos/realglobe-Inc/sg-socket",
     "fork": false
   },
   {
-    "name": "sugo-module-serialport",
-    "full_name": "realglobe-Inc/sugo-module-serialport",
+    "name": "sg-server",
+    "full_name": "realglobe-Inc/sg-server",
     "private": true,
-    "description": "SUGOS module to access serial ports",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-module-serialport",
+    "description": "HTTP web server for SUGOS",
+    "url": "https://api.github.com/repos/realglobe-Inc/sg-server",
     "fork": false
   },
   {
-    "name": "sugo-module-say",
-    "full_name": "realglobe-Inc/sugo-module-say",
+    "name": "sg-storage",
+    "full_name": "realglobe-Inc/sg-storage",
     "private": true,
-    "description": "Say command module for SUGOS. (Supports only OSX)",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-module-say",
-    "fork": false
-  },
-  {
-    "name": "sugo-actor-python",
-    "full_name": "realglobe-Inc/sugo-actor-python",
-    "private": true,
-    "description": null,
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-actor-python",
-    "fork": false
-  },
-  {
-    "name": "sg-socket-client",
-    "full_name": "realglobe-Inc/sg-socket-client",
-    "private": true,
-    "description": "Web socket client for SUGOS",
-    "url": "https://api.github.com/repos/realglobe-Inc/sg-socket-client",
-    "fork": false
-  },
-  {
-    "name": "sugo-agent-zip",
-    "full_name": "realglobe-Inc/sugo-agent-zip",
-    "private": true,
-    "description": "Client for sugo-endpoint-zip",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-agent-zip",
+    "description": "On-memory storage for SUGOS",
+    "url": "https://api.github.com/repos/realglobe-Inc/sg-storage",
     "fork": false
   },
   {
@@ -424,35 +440,27 @@
     "fork": false
   },
   {
+    "name": "sg-socket",
+    "full_name": "realglobe-Inc/sg-socket",
+    "private": true,
+    "description": "Web socket server for SUGOS",
+    "url": "https://api.github.com/repos/realglobe-Inc/sg-socket",
+    "fork": false
+  },
+  {
+    "name": "sg-react-components",
+    "full_name": "realglobe-Inc/sg-react-components",
+    "private": true,
+    "description": "React components for SUGOS project",
+    "url": "https://api.github.com/repos/realglobe-Inc/sg-react-components",
+    "fork": false
+  },
+  {
     "name": "sugos-secrets",
     "full_name": "realglobe-Inc/sugos-secrets",
     "private": true,
     "description": "Secret values for SUGOS. This repository should not be public.",
     "url": "https://api.github.com/repos/realglobe-Inc/sugos-secrets",
-    "fork": false
-  },
-  {
-    "name": "sg-validator",
-    "full_name": "realglobe-Inc/sg-validator",
-    "private": true,
-    "description": "JSON schema validator for SUGOS",
-    "url": "https://api.github.com/repos/realglobe-Inc/sg-validator",
-    "fork": false
-  },
-  {
-    "name": "sg-server",
-    "full_name": "realglobe-Inc/sg-server",
-    "private": true,
-    "description": "HTTP web server for SUGOS",
-    "url": "https://api.github.com/repos/realglobe-Inc/sg-server",
-    "fork": false
-  },
-  {
-    "name": "sg-storage",
-    "full_name": "realglobe-Inc/sg-storage",
-    "private": true,
-    "description": "On-memory storage for SUGOS",
-    "url": "https://api.github.com/repos/realglobe-Inc/sg-storage",
     "fork": false
   },
   {
