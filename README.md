@@ -175,14 +175,13 @@ Helper packages.
 
 | Name | Description |
 | ---- | ----------- |
-| [sg-compiler](https://github.com/realglobe-Inc/sg-compiler) | Javascript compiler for sugos |
 | [sg-electron](https://github.com/realglobe-Inc/sg-electron) | Electron utility of SUGOS |
 | [sg-react](https://github.com/realglobe-Inc/sg-react) | React utilities for SUGOS |
+| [sg-compiler](https://github.com/realglobe-Inc/sg-compiler) | Javascript compiler for sugos |
 | [sg-templates](https://github.com/realglobe-Inc/sg-templates) | Templates for SUGOS |
 | [sg-check](https://github.com/realglobe-Inc/sg-check) | Checking utilify for SUGOS |
+| [sg-socket-client](https://github.com/realglobe-Inc/sg-socket-client) | Web socket client for SUGOS |
 | [sg-socket](https://github.com/realglobe-Inc/sg-socket) | Web socket server for SUGOS |
-| [sg-react-components](https://github.com/realglobe-Inc/sg-react-components) | React components for SUGOS project |
-| [sg-server](https://github.com/realglobe-Inc/sg-server) | HTTP web server for SUGOS |
 | [sg-storage](https://github.com/realglobe-Inc/sg-storage) | On-memory storage for SUGOS |
 | [sg-socket-client](https://github.com/realglobe-Inc/sg-socket-client) | Web socket client for SUGOS |
 | [sg-socket](https://github.com/realglobe-Inc/sg-socket) | Web socket server for SUGOS |
