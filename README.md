@@ -91,8 +91,8 @@ Core of SUGOS
 | ---- | ----------- |
 | [sugos](https://github.com/realglobe-Inc/sugos) | A high-level RPC framework to make remote controlling super easy. |
 | [sugo-observer](https://github.com/realglobe-Inc/sugo-observer) | Remote observer for SUGOS |
-| [sugo-actor](https://github.com/realglobe-Inc/sugo-actor) | Actor component of SUGOS. |
 | [sugo-caller](https://github.com/realglobe-Inc/sugo-caller) | Caller component of SUGOS. |
+| [sugo-actor](https://github.com/realglobe-Inc/sugo-actor) | Actor component of SUGOS. |
 | [sugos.tech](https://github.com/realglobe-Inc/sugos.tech) | Homepage of sugos |
 <a name="package-group-Demo"/>
 
@@ -181,11 +181,11 @@ Helper packages.
 | [sg-check](https://github.com/realglobe-Inc/sg-check) | Checking utilify for SUGOS |
 | [sg-compiler](https://github.com/realglobe-Inc/sg-compiler) | Javascript compiler for sugos |
 | [sg-socket-client](https://github.com/realglobe-Inc/sg-socket-client) | Web socket client for SUGOS |
+| [sg-socket](https://github.com/realglobe-Inc/sg-socket) | Web socket server for SUGOS |
+| [sg-react-components](https://github.com/realglobe-Inc/sg-react-components) | React components for SUGOS project |
 | [sg-validator](https://github.com/realglobe-Inc/sg-validator) | JSON schema validator for SUGOS |
 | [sg-server](https://github.com/realglobe-Inc/sg-server) | HTTP web server for SUGOS |
 | [sg-storage](https://github.com/realglobe-Inc/sg-storage) | On-memory storage for SUGOS |
-| [sg-socket](https://github.com/realglobe-Inc/sg-socket) | Web socket server for SUGOS |
-| [sg-react-components](https://github.com/realglobe-Inc/sg-react-components) | React components for SUGOS project |
 | [sg-schemas](https://github.com/realglobe-Inc/sg-schemas) | Collection of JSON schemas for SUGOS |
 
 
