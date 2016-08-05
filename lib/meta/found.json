@@ -328,6 +328,14 @@
     "fork": false
   },
   {
+    "name": "sg-socket-client",
+    "full_name": "realglobe-Inc/sg-socket-client",
+    "private": true,
+    "description": "Web socket client for SUGOS",
+    "url": "https://api.github.com/repos/realglobe-Inc/sg-socket-client",
+    "fork": false
+  },
+  {
     "name": "sugo-endpoint-file",
     "full_name": "realglobe-Inc/sugo-endpoint-file",
     "private": true,
@@ -389,14 +397,6 @@
     "private": true,
     "description": "SUGOS example project to contorl roomba",
     "url": "https://api.github.com/repos/realglobe-Inc/sugo-example-roomba",
-    "fork": false
-  },
-  {
-    "name": "sg-socket-client",
-    "full_name": "realglobe-Inc/sg-socket-client",
-    "private": true,
-    "description": "Web socket client for SUGOS",
-    "url": "https://api.github.com/repos/realglobe-Inc/sg-socket-client",
     "fork": false
   },
   {
