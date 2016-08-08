@@ -109,7 +109,6 @@ Demo for SUGOS scaffolding
 | [sugo-demo-desktop](https://github.com/realglobe-Inc/sugo-demo-desktop) | Demo of desktop applications |
 | [sugo-demo-module](https://github.com/realglobe-Inc/sugo-demo-module) | Demo of SUGO-Module |
 | [sugo-demo-endpoint](https://github.com/realglobe-Inc/sugo-demo-endpoint) | Demo of sugo route |
-| [sugo-demo-react](https://github.com/realglobe-Inc/sugo-demo-react) | Demo of react projects |
 <a name="package-group-Example"/>
 
 ### Example Packages
@@ -139,7 +138,7 @@ Module plugins for SUGOS-Actor
 | [sugo-module-naoqi](https://github.com/realglobe-Inc/sugo-module-naoqi) |  |
 | [sugo-module-scss](https://github.com/realglobe-Inc/sugo-module-scss) | SUGOS interface of scss compiler |
 | [sugo-module-serialport](https://github.com/realglobe-Inc/sugo-module-serialport) | SUGOS module to access serial ports |
-| [sugo-module-say](https://github.com/realglobe-Inc/sugo-module-say) | Say command module for SUGOS. (Supports only OSX) |
+| [sugo-module-naoqi](https://github.com/realglobe-Inc/sugo-module-naoqi) |  |
 <a name="package-group-Middleware"/>
 
 ### Middleware Packages
@@ -186,9 +185,11 @@ Helper packages.
 | [sg-socket](https://github.com/realglobe-Inc/sg-socket) | Web socket server for SUGOS |
 | [sg-react-components](https://github.com/realglobe-Inc/sg-react-components) | React components for SUGOS project |
 | [sg-socket-client](https://github.com/realglobe-Inc/sg-socket-client) | Web socket client for SUGOS |
+| [sg-socket](https://github.com/realglobe-Inc/sg-socket) | Web socket server for SUGOS |
+| [sg-react-components](https://github.com/realglobe-Inc/sg-react-components) | React components for SUGOS project |
+| [sg-validator](https://github.com/realglobe-Inc/sg-validator) | JSON schema validator for SUGOS |
 | [sg-server](https://github.com/realglobe-Inc/sg-server) | HTTP web server for SUGOS |
 | [sg-storage](https://github.com/realglobe-Inc/sg-storage) | On-memory storage for SUGOS |
-| [sg-validator](https://github.com/realglobe-Inc/sg-validator) | JSON schema validator for SUGOS |
 | [sg-schemas](https://github.com/realglobe-Inc/sg-schemas) | Collection of JSON schemas for SUGOS |
 
 
