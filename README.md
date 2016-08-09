@@ -140,6 +140,8 @@ Module plugins for SUGOS-Actor
 | [sugo-module-say](https://github.com/realglobe-Inc/sugo-module-say) | Say command module for SUGOS. (Supports only OSX) |
 | [sugo-module-scss](https://github.com/realglobe-Inc/sugo-module-scss) | SUGOS interface of scss compiler |
 | [sugo-module-serialport](https://github.com/realglobe-Inc/sugo-module-serialport) | SUGOS module to access serial ports |
+| [sugo-module-serialport](https://github.com/realglobe-Inc/sugo-module-serialport) | SUGOS module to access serial ports |
+| [sugo-module-say](https://github.com/realglobe-Inc/sugo-module-say) | Say command module for SUGOS. (Supports only OSX) |
 <a name="package-group-Middleware"/>
 
 ### Middleware Packages
@@ -183,12 +185,10 @@ Helper packages.
 | [sg-electron](https://github.com/realglobe-Inc/sg-electron) | Electron utility of SUGOS |
 | [sg-react](https://github.com/realglobe-Inc/sg-react) | React utilities for SUGOS |
 | [sg-compiler](https://github.com/realglobe-Inc/sg-compiler) | Javascript compiler for sugos |
+| [sg-socket-client](https://github.com/realglobe-Inc/sg-socket-client) | Web socket client for SUGOS |
 | [sg-server](https://github.com/realglobe-Inc/sg-server) | HTTP web server for SUGOS |
 | [sg-storage](https://github.com/realglobe-Inc/sg-storage) | On-memory storage for SUGOS |
 | [sg-validator](https://github.com/realglobe-Inc/sg-validator) | JSON schema validator for SUGOS |
-| [sg-socket-client](https://github.com/realglobe-Inc/sg-socket-client) | Web socket client for SUGOS |
-| [sg-socket](https://github.com/realglobe-Inc/sg-socket) | Web socket server for SUGOS |
-| [sg-react-components](https://github.com/realglobe-Inc/sg-react-components) | React components for SUGOS project |
 | [sg-schemas](https://github.com/realglobe-Inc/sg-schemas) | Collection of JSON schemas for SUGOS |
 
 
