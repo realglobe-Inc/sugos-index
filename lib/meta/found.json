@@ -384,30 +384,6 @@
     "fork": false
   },
   {
-    "name": "sg-server",
-    "full_name": "realglobe-Inc/sg-server",
-    "private": true,
-    "description": "HTTP web server for SUGOS",
-    "url": "https://api.github.com/repos/realglobe-Inc/sg-server",
-    "fork": false
-  },
-  {
-    "name": "sg-storage",
-    "full_name": "realglobe-Inc/sg-storage",
-    "private": true,
-    "description": "On-memory storage for SUGOS",
-    "url": "https://api.github.com/repos/realglobe-Inc/sg-storage",
-    "fork": false
-  },
-  {
-    "name": "sg-validator",
-    "full_name": "realglobe-Inc/sg-validator",
-    "private": true,
-    "description": "JSON schema validator for SUGOS",
-    "url": "https://api.github.com/repos/realglobe-Inc/sg-validator",
-    "fork": false
-  },
-  {
     "name": "sugo-module-say",
     "full_name": "realglobe-Inc/sugo-module-say",
     "private": true,
@@ -429,6 +405,22 @@
     "private": true,
     "description": "SUGOS module to access serial ports",
     "url": "https://api.github.com/repos/realglobe-Inc/sugo-module-serialport",
+    "fork": false
+  },
+  {
+    "name": "sugo-module-serialport",
+    "full_name": "realglobe-Inc/sugo-module-serialport",
+    "private": true,
+    "description": "SUGOS module to access serial ports",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-module-serialport",
+    "fork": false
+  },
+  {
+    "name": "sugo-module-say",
+    "full_name": "realglobe-Inc/sugo-module-say",
+    "private": true,
+    "description": "Say command module for SUGOS. (Supports only OSX)",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-module-say",
     "fork": false
   },
   {
@@ -456,22 +448,6 @@
     "fork": false
   },
   {
-    "name": "sg-socket",
-    "full_name": "realglobe-Inc/sg-socket",
-    "private": true,
-    "description": "Web socket server for SUGOS",
-    "url": "https://api.github.com/repos/realglobe-Inc/sg-socket",
-    "fork": false
-  },
-  {
-    "name": "sg-react-components",
-    "full_name": "realglobe-Inc/sg-react-components",
-    "private": true,
-    "description": "React components for SUGOS project",
-    "url": "https://api.github.com/repos/realglobe-Inc/sg-react-components",
-    "fork": false
-  },
-  {
     "name": "sugos-ci",
     "full_name": "realglobe-Inc/sugos-ci",
     "private": true,
@@ -485,6 +461,30 @@
     "private": true,
     "description": "Miscellaneous repo of SUGOS. (Should not be public)",
     "url": "https://api.github.com/repos/realglobe-Inc/sugos-misc",
+    "fork": false
+  },
+  {
+    "name": "sg-server",
+    "full_name": "realglobe-Inc/sg-server",
+    "private": true,
+    "description": "HTTP web server for SUGOS",
+    "url": "https://api.github.com/repos/realglobe-Inc/sg-server",
+    "fork": false
+  },
+  {
+    "name": "sg-storage",
+    "full_name": "realglobe-Inc/sg-storage",
+    "private": true,
+    "description": "On-memory storage for SUGOS",
+    "url": "https://api.github.com/repos/realglobe-Inc/sg-storage",
+    "fork": false
+  },
+  {
+    "name": "sg-validator",
+    "full_name": "realglobe-Inc/sg-validator",
+    "private": true,
+    "description": "JSON schema validator for SUGOS",
+    "url": "https://api.github.com/repos/realglobe-Inc/sg-validator",
     "fork": false
   },
   {
