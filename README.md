@@ -167,6 +167,7 @@ Agent of endpoints
 | [sugo-agent-file](https://github.com/realglobe-Inc/sugo-agent-file) | Client for sugo-endpoint-file |
 | [sugo-agent-compile](https://github.com/realglobe-Inc/sugo-agent-compile) | Client for sugo-endpoint-compile |
 | [sugo-agent-zip](https://github.com/realglobe-Inc/sugo-agent-zip) | Client for sugo-endpoint-zip |
+| [sugo-agent-compile](https://github.com/realglobe-Inc/sugo-agent-compile) | Client for sugo-endpoint-compile |
 | [sugo-agent-zip](https://github.com/realglobe-Inc/sugo-agent-zip) | Client for sugo-endpoint-zip |
 <a name="package-group-Helper"/>
 
