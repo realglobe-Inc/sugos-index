@@ -8,6 +8,14 @@
     "fork": false
   },
   {
+    "name": "sugos-snippets",
+    "full_name": "realglobe-Inc/sugos-snippets",
+    "private": true,
+    "description": "SUGOS snipets",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugos-snippets",
+    "fork": false
+  },
+  {
     "name": "sugo-observer",
     "full_name": "realglobe-Inc/sugo-observer",
     "private": true,
@@ -149,6 +157,14 @@
     "private": true,
     "description": "Demo of sugo example",
     "url": "https://api.github.com/repos/realglobe-Inc/sugo-demo-example",
+    "fork": false
+  },
+  {
+    "name": "sg-serializer",
+    "full_name": "realglobe-Inc/sg-serializer",
+    "private": true,
+    "description": "Serializer for SUGOS",
+    "url": "https://api.github.com/repos/realglobe-Inc/sg-serializer",
     "fork": false
   },
   {
@@ -413,6 +429,14 @@
     "private": true,
     "description": "JSON schema validator for SUGOS",
     "url": "https://api.github.com/repos/realglobe-Inc/sg-validator",
+    "fork": false
+  },
+  {
+    "name": "sugo-ci-agent",
+    "full_name": "realglobe-Inc/sugo-ci-agent",
+    "private": true,
+    "description": "CI scripts for agent projects.",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-ci-agent",
     "fork": false
   },
   {
