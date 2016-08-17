@@ -56,19 +56,19 @@
     "fork": false
   },
   {
-    "name": "sugo-caller",
-    "full_name": "realglobe-Inc/sugo-caller",
-    "private": true,
-    "description": "Caller component of SUGOS.",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-caller",
-    "fork": false
-  },
-  {
     "name": "sugo-actor",
     "full_name": "realglobe-Inc/sugo-actor",
     "private": true,
     "description": "Actor component of SUGOS.",
     "url": "https://api.github.com/repos/realglobe-Inc/sugo-actor",
+    "fork": false
+  },
+  {
+    "name": "sugo-caller",
+    "full_name": "realglobe-Inc/sugo-caller",
+    "private": true,
+    "description": "Caller component of SUGOS.",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-caller",
     "fork": false
   },
   {
