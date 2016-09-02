@@ -384,14 +384,6 @@
     "fork": false
   },
   {
-    "name": "sugo-ci-site",
-    "full_name": "realglobe-Inc/sugo-ci-site",
-    "private": true,
-    "description": "CI scripts for site",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-ci-site",
-    "fork": false
-  },
-  {
     "name": "sugo-ci-agent",
     "full_name": "realglobe-Inc/sugo-ci-agent",
     "private": true,
@@ -445,6 +437,14 @@
     "private": true,
     "description": null,
     "url": "https://api.github.com/repos/realglobe-Inc/sugo-module-generator-naoqi",
+    "fork": false
+  },
+  {
+    "name": "sugo-ci-site",
+    "full_name": "realglobe-Inc/sugo-ci-site",
+    "private": true,
+    "description": "CI scripts for site",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-ci-site",
     "fork": false
   },
   {
