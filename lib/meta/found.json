@@ -536,11 +536,11 @@
     "fork": false
   },
   {
-    "name": "sugo-example-rapiro",
-    "full_name": "realglobe-Inc/sugo-example-rapiro",
+    "name": "sugo-demo-react",
+    "full_name": "realglobe-Inc/sugo-demo-react",
     "private": true,
-    "description": "SUGOS example project to contorl RAPIRO.",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-example-rapiro",
+    "description": "Demo of react projects",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-demo-react",
     "fork": false
   },
   {
@@ -552,11 +552,11 @@
     "fork": false
   },
   {
-    "name": "sugo-demo-react",
-    "full_name": "realglobe-Inc/sugo-demo-react",
+    "name": "sugo-example-rapiro",
+    "full_name": "realglobe-Inc/sugo-example-rapiro",
     "private": true,
-    "description": "Demo of react projects",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-demo-react",
+    "description": "SUGOS example project to contorl RAPIRO.",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-example-rapiro",
     "fork": false
   },
   {
