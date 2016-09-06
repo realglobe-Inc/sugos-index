@@ -102,9 +102,9 @@ Demo for SUGOS scaffolding
 
 | Name | Description |
 | ---- | ----------- |
-| [sugo-demo-module](https://github.com/realglobe-Inc/sugo-demo-module) | Demo of SUGO-Module |
 | [sugo-demo-example](https://github.com/realglobe-Inc/sugo-demo-example) | Demo of sugo example |
 | [sugo-demo-agent](https://github.com/realglobe-Inc/sugo-demo-agent) | Demo of sugo agent |
+| [sugo-demo-module](https://github.com/realglobe-Inc/sugo-demo-module) | Demo of SUGO-Module |
 | [sugo-demo-middleware](https://github.com/realglobe-Inc/sugo-demo-middleware) | Demo of sugo middleware |
 | [sugo-demo-endpoint](https://github.com/realglobe-Inc/sugo-demo-endpoint) | Demo of sugo route |
 | [sugo-demo-site](https://github.com/realglobe-Inc/sugo-demo-site) | Demo of sugo site |
@@ -134,8 +134,8 @@ Module plugins for SUGOS-Actor
 | [sugo-module-noop](https://github.com/realglobe-Inc/sugo-module-noop) | Noop module for SUGOS |
 | [sugo-module-shell](https://github.com/realglobe-Inc/sugo-module-shell) | Shell module for SUGOS |
 | [sugo-module-base](https://github.com/realglobe-Inc/sugo-module-base) | Base module for SUGOS |
-| [sugo-module-classify-image](https://github.com/realglobe-Inc/sugo-module-classify-image) | SUGOS module to classify images |
 | [sugo-module-scss](https://github.com/realglobe-Inc/sugo-module-scss) | SUGOS interface of scss compiler |
+| [sugo-module-classify-image](https://github.com/realglobe-Inc/sugo-module-classify-image) | SUGOS module to classify images |
 | [sugo-module-firmata](https://github.com/realglobe-Inc/sugo-module-firmata) | SUGOS module of firmata.js |
 | [sugo-module-generator-naoqi](https://github.com/realglobe-Inc/sugo-module-generator-naoqi) |  |
 | [sugo-module-serialport](https://github.com/realglobe-Inc/sugo-module-serialport) | SUGOS module to access serial ports |
@@ -160,9 +160,9 @@ Endpoint plugins for SUGO-Cloud
 
 | Name | Description |
 | ---- | ----------- |
-| [sugo-endpoint-noop](https://github.com/realglobe-Inc/sugo-endpoint-noop) | Endpoint to do nothing. |
 | [sugo-endpoint-compile](https://github.com/realglobe-Inc/sugo-endpoint-compile) | Endpoint to compile javascripts. |
 | [sugo-endpoint-zip](https://github.com/realglobe-Inc/sugo-endpoint-zip) | Endpoint to download files as zip |
+| [sugo-endpoint-noop](https://github.com/realglobe-Inc/sugo-endpoint-noop) | Endpoint to do nothing. |
 | [sugo-endpoint-file](https://github.com/realglobe-Inc/sugo-endpoint-file) | Endpoint to handle files |
 <a name="package-group-Agent"/>
 
@@ -191,9 +191,9 @@ Helper packages.
 | [sg-compiler](https://github.com/realglobe-Inc/sg-compiler) | Javascript compiler for sugos |
 | [sg-serializer](https://github.com/realglobe-Inc/sg-serializer) | Serializer for SUGOS |
 | [sg-errors](https://github.com/realglobe-Inc/sg-errors) | Error object for SUGOS |
-| [sg-server](https://github.com/realglobe-Inc/sg-server) | HTTP web server for SUGOS |
-| [sg-validator](https://github.com/realglobe-Inc/sg-validator) | JSON schema validator for SUGOS |
 | [sg-socket](https://github.com/realglobe-Inc/sg-socket) | Web socket server for SUGOS |
+| [sg-validator](https://github.com/realglobe-Inc/sg-validator) | JSON schema validator for SUGOS |
+| [sg-server](https://github.com/realglobe-Inc/sg-server) | HTTP web server for SUGOS |
 | [sg-storage](https://github.com/realglobe-Inc/sg-storage) | On-memory storage for SUGOS |
 | [sg-socket-client](https://github.com/realglobe-Inc/sg-socket-client) | Web socket client for SUGOS |
 | [sg-react-components](https://github.com/realglobe-Inc/sg-react-components) | React components for SUGOS project |
