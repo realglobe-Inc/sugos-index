@@ -102,12 +102,12 @@ Demo for SUGOS scaffolding
 
 | Name | Description |
 | ---- | ----------- |
-| [sugo-demo-middleware](https://github.com/realglobe-Inc/sugo-demo-middleware) | Demo of sugo middleware |
+| [sugo-demo-endpoint](https://github.com/realglobe-Inc/sugo-demo-endpoint) | Demo of sugo route |
+| [sugo-demo-module](https://github.com/realglobe-Inc/sugo-demo-module) | Demo of SUGO-Module |
 | [sugo-demo-agent](https://github.com/realglobe-Inc/sugo-demo-agent) | Demo of sugo agent |
 | [sugo-demo-site](https://github.com/realglobe-Inc/sugo-demo-site) | Demo of sugo site |
 | [sugo-demo-example](https://github.com/realglobe-Inc/sugo-demo-example) | Demo of sugo example |
-| [sugo-demo-module](https://github.com/realglobe-Inc/sugo-demo-module) | Demo of SUGO-Module |
-| [sugo-demo-endpoint](https://github.com/realglobe-Inc/sugo-demo-endpoint) | Demo of sugo route |
+| [sugo-demo-middleware](https://github.com/realglobe-Inc/sugo-demo-middleware) | Demo of sugo middleware |
 | [sugo-demo-desktop](https://github.com/realglobe-Inc/sugo-demo-desktop) | Demo of desktop applications |
 | [sugo-demo-react](https://github.com/realglobe-Inc/sugo-demo-react) | Demo of react projects |
 <a name="package-group-Example"/>
@@ -184,13 +184,13 @@ Helper packages.
 
 | Name | Description |
 | ---- | ----------- |
+| [sg-check](https://github.com/realglobe-Inc/sg-check) | Checking utilify for SUGOS |
+| [sg-templates](https://github.com/realglobe-Inc/sg-templates) | Templates for SUGOS |
+| [sg-serializer](https://github.com/realglobe-Inc/sg-serializer) | Serializer for SUGOS |
 | [sg-electron](https://github.com/realglobe-Inc/sg-electron) | Electron utility of SUGOS |
 | [sg-react](https://github.com/realglobe-Inc/sg-react) | React utilities for SUGOS |
 | [sg-compiler](https://github.com/realglobe-Inc/sg-compiler) | Javascript compiler for sugos |
 | [sg-errors](https://github.com/realglobe-Inc/sg-errors) | Error object for SUGOS |
-| [sg-serializer](https://github.com/realglobe-Inc/sg-serializer) | Serializer for SUGOS |
-| [sg-check](https://github.com/realglobe-Inc/sg-check) | Checking utilify for SUGOS |
-| [sg-templates](https://github.com/realglobe-Inc/sg-templates) | Templates for SUGOS |
 | [sg-server](https://github.com/realglobe-Inc/sg-server) | HTTP web server for SUGOS |
 | [sg-storage](https://github.com/realglobe-Inc/sg-storage) | On-memory storage for SUGOS |
 | [sg-validator](https://github.com/realglobe-Inc/sg-validator) | JSON schema validator for SUGOS |
