@@ -16,14 +16,6 @@
     "fork": false
   },
   {
-    "name": "sugo-observer",
-    "full_name": "realglobe-Inc/sugo-observer",
-    "private": true,
-    "description": "Remote observer for SUGOS",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-observer",
-    "fork": false
-  },
-  {
     "name": "sugo-caller",
     "full_name": "realglobe-Inc/sugo-caller",
     "private": true,
@@ -37,6 +29,14 @@
     "private": true,
     "description": "Constant variables for SUGOS",
     "url": "https://api.github.com/repos/realglobe-Inc/sugo-constants",
+    "fork": false
+  },
+  {
+    "name": "sugo-observer",
+    "full_name": "realglobe-Inc/sugo-observer",
+    "private": true,
+    "description": "Remote observer for SUGOS",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-observer",
     "fork": false
   },
   {
@@ -136,6 +136,14 @@
     "fork": false
   },
   {
+    "name": "sugo-demo-middleware",
+    "full_name": "realglobe-Inc/sugo-demo-middleware",
+    "private": true,
+    "description": "Demo of sugo middleware",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-demo-middleware",
+    "fork": false
+  },
+  {
     "name": "sugo-demo-endpoint",
     "full_name": "realglobe-Inc/sugo-demo-endpoint",
     "private": true,
@@ -152,35 +160,11 @@
     "fork": false
   },
   {
-    "name": "sugo-demo-middleware",
-    "full_name": "realglobe-Inc/sugo-demo-middleware",
+    "name": "sugo-demo-site",
+    "full_name": "realglobe-Inc/sugo-demo-site",
     "private": true,
-    "description": "Demo of sugo middleware",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-demo-middleware",
-    "fork": false
-  },
-  {
-    "name": "sugos-assets",
-    "full_name": "realglobe-Inc/sugos-assets",
-    "private": true,
-    "description": "Asset files for sugos",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugos-assets",
-    "fork": false
-  },
-  {
-    "name": "sg-errors",
-    "full_name": "realglobe-Inc/sg-errors",
-    "private": true,
-    "description": "Error object for SUGOS",
-    "url": "https://api.github.com/repos/realglobe-Inc/sg-errors",
-    "fork": false
-  },
-  {
-    "name": "sg-serializer",
-    "full_name": "realglobe-Inc/sg-serializer",
-    "private": true,
-    "description": "Serializer for SUGOS",
-    "url": "https://api.github.com/repos/realglobe-Inc/sg-serializer",
+    "description": "Demo of sugo site",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-demo-site",
     "fork": false
   },
   {
@@ -192,11 +176,27 @@
     "fork": false
   },
   {
-    "name": "sugo-demo-site",
-    "full_name": "realglobe-Inc/sugo-demo-site",
+    "name": "sg-serializer",
+    "full_name": "realglobe-Inc/sg-serializer",
     "private": true,
-    "description": "Demo of sugo site",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-demo-site",
+    "description": "Serializer for SUGOS",
+    "url": "https://api.github.com/repos/realglobe-Inc/sg-serializer",
+    "fork": false
+  },
+  {
+    "name": "sg-errors",
+    "full_name": "realglobe-Inc/sg-errors",
+    "private": true,
+    "description": "Error object for SUGOS",
+    "url": "https://api.github.com/repos/realglobe-Inc/sg-errors",
+    "fork": false
+  },
+  {
+    "name": "sugos-assets",
+    "full_name": "realglobe-Inc/sugos-assets",
+    "private": true,
+    "description": "Asset files for sugos",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugos-assets",
     "fork": false
   },
   {
@@ -296,94 +296,6 @@
     "fork": false
   },
   {
-    "name": "sugo-react-example",
-    "full_name": "realglobe-Inc/sugo-react-example",
-    "private": true,
-    "description": "React components for SUGOS example projects",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-react-example",
-    "fork": false
-  },
-  {
-    "name": "sugo-module-generator-naoqi",
-    "full_name": "realglobe-Inc/sugo-module-generator-naoqi",
-    "private": true,
-    "description": null,
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-module-generator-naoqi",
-    "fork": false
-  },
-  {
-    "name": "sugo-module-say",
-    "full_name": "realglobe-Inc/sugo-module-say",
-    "private": true,
-    "description": "Say command module for SUGOS. (Supports only OSX)",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-module-say",
-    "fork": false
-  },
-  {
-    "name": "sugo-example-say",
-    "full_name": "realglobe-Inc/sugo-example-say",
-    "private": true,
-    "description": "SUGOS example project to invoke `say` command on remote MAC (OSX system is required)",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-example-say",
-    "fork": false
-  },
-  {
-    "name": "sugo-ci-desktop",
-    "full_name": "realglobe-Inc/sugo-ci-desktop",
-    "private": true,
-    "description": "CI scripts for desktop projects",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-ci-desktop",
-    "fork": false
-  },
-  {
-    "name": "sugo-ci-example",
-    "full_name": "realglobe-Inc/sugo-ci-example",
-    "private": true,
-    "description": "CI scripts for example projects",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-ci-example",
-    "fork": false
-  },
-  {
-    "name": "sugo-module-rapiro",
-    "full_name": "realglobe-Inc/sugo-module-rapiro",
-    "private": true,
-    "description": "SUGOS module to control RAPIRO",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-module-rapiro",
-    "fork": false
-  },
-  {
-    "name": "sugo-site-todomvc",
-    "full_name": "realglobe-Inc/sugo-site-todomvc",
-    "private": true,
-    "description": "Redux TodoMVC example with SUGOS",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-site-todomvc",
-    "fork": false
-  },
-  {
-    "name": "sugo-module-watch",
-    "full_name": "realglobe-Inc/sugo-module-watch",
-    "private": true,
-    "description": "SUGOS module of watching files",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-module-watch",
-    "fork": false
-  },
-  {
-    "name": "sugo-module-serialport",
-    "full_name": "realglobe-Inc/sugo-module-serialport",
-    "private": true,
-    "description": "SUGOS module to access serial ports",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-module-serialport",
-    "fork": false
-  },
-  {
-    "name": "sugo-endpoint-file",
-    "full_name": "realglobe-Inc/sugo-endpoint-file",
-    "private": true,
-    "description": "Endpoint to handle files",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-endpoint-file",
-    "fork": false
-  },
-  {
     "name": "sugo-demo-desktop",
     "full_name": "realglobe-Inc/sugo-demo-desktop",
     "private": true,
@@ -445,6 +357,94 @@
     "private": true,
     "description": null,
     "url": "https://api.github.com/repos/realglobe-Inc/sugo-actor-android-call",
+    "fork": false
+  },
+  {
+    "name": "sugo-react-example",
+    "full_name": "realglobe-Inc/sugo-react-example",
+    "private": true,
+    "description": "React components for SUGOS example projects",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-react-example",
+    "fork": false
+  },
+  {
+    "name": "sugo-example-say",
+    "full_name": "realglobe-Inc/sugo-example-say",
+    "private": true,
+    "description": "SUGOS example project to invoke `say` command on remote MAC (OSX system is required)",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-example-say",
+    "fork": false
+  },
+  {
+    "name": "sugo-module-serialport",
+    "full_name": "realglobe-Inc/sugo-module-serialport",
+    "private": true,
+    "description": "SUGOS module to access serial ports",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-module-serialport",
+    "fork": false
+  },
+  {
+    "name": "sugo-ci-example",
+    "full_name": "realglobe-Inc/sugo-ci-example",
+    "private": true,
+    "description": "CI scripts for example projects",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-ci-example",
+    "fork": false
+  },
+  {
+    "name": "sugo-ci-desktop",
+    "full_name": "realglobe-Inc/sugo-ci-desktop",
+    "private": true,
+    "description": "CI scripts for desktop projects",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-ci-desktop",
+    "fork": false
+  },
+  {
+    "name": "sugo-module-generator-naoqi",
+    "full_name": "realglobe-Inc/sugo-module-generator-naoqi",
+    "private": true,
+    "description": null,
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-module-generator-naoqi",
+    "fork": false
+  },
+  {
+    "name": "sugo-module-rapiro",
+    "full_name": "realglobe-Inc/sugo-module-rapiro",
+    "private": true,
+    "description": "SUGOS module to control RAPIRO",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-module-rapiro",
+    "fork": false
+  },
+  {
+    "name": "sugo-module-say",
+    "full_name": "realglobe-Inc/sugo-module-say",
+    "private": true,
+    "description": "Say command module for SUGOS. (Supports only OSX)",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-module-say",
+    "fork": false
+  },
+  {
+    "name": "sugo-endpoint-file",
+    "full_name": "realglobe-Inc/sugo-endpoint-file",
+    "private": true,
+    "description": "Endpoint to handle files",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-endpoint-file",
+    "fork": false
+  },
+  {
+    "name": "sugo-site-todomvc",
+    "full_name": "realglobe-Inc/sugo-site-todomvc",
+    "private": true,
+    "description": "Redux TodoMVC example with SUGOS",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-site-todomvc",
+    "fork": false
+  },
+  {
+    "name": "sugo-module-watch",
+    "full_name": "realglobe-Inc/sugo-module-watch",
+    "private": true,
+    "description": "SUGOS module of watching files",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-module-watch",
     "fork": false
   },
   {
@@ -560,14 +560,6 @@
     "fork": false
   },
   {
-    "name": "sugo-example-rapiro",
-    "full_name": "realglobe-Inc/sugo-example-rapiro",
-    "private": true,
-    "description": "SUGOS example project to contorl RAPIRO.",
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-example-rapiro",
-    "fork": false
-  },
-  {
     "name": "sugo-module-naoqi",
     "full_name": "realglobe-Inc/sugo-module-naoqi",
     "private": true,
@@ -589,6 +581,14 @@
     "private": true,
     "description": "SUGOS python module for arducopter",
     "url": "https://api.github.com/repos/realglobe-Inc/sugo-module-arducopter",
+    "fork": false
+  },
+  {
+    "name": "sugo-example-rapiro",
+    "full_name": "realglobe-Inc/sugo-example-rapiro",
+    "private": true,
+    "description": "SUGOS example project to contorl RAPIRO.",
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-example-rapiro",
     "fork": false
   },
   {
