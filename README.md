@@ -90,8 +90,8 @@ Core of SUGOS
 | Name | Description |
 | ---- | ----------- |
 | [sugos](https://github.com/realglobe-Inc/sugos) | A high-level RPC framework to make remote controlling super easy. |
-| [sugo-observer](https://github.com/realglobe-Inc/sugo-observer) | Remote observer for SUGOS |
 | [sugo-caller](https://github.com/realglobe-Inc/sugo-caller) | Caller component of SUGOS. |
+| [sugo-observer](https://github.com/realglobe-Inc/sugo-observer) | Remote observer for SUGOS |
 | [sugo-actor](https://github.com/realglobe-Inc/sugo-actor) | Actor component of SUGOS. |
 | [sugos.tech](https://github.com/realglobe-Inc/sugos.tech) | Homepage of sugos |
 <a name="package-group-Demo"/>
@@ -102,8 +102,8 @@ Demo for SUGOS scaffolding
 
 | Name | Description |
 | ---- | ----------- |
-| [sugo-demo-endpoint](https://github.com/realglobe-Inc/sugo-demo-endpoint) | Demo of sugo route |
 | [sugo-demo-middleware](https://github.com/realglobe-Inc/sugo-demo-middleware) | Demo of sugo middleware |
+| [sugo-demo-endpoint](https://github.com/realglobe-Inc/sugo-demo-endpoint) | Demo of sugo route |
 | [sugo-demo-site](https://github.com/realglobe-Inc/sugo-demo-site) | Demo of sugo site |
 | [sugo-demo-module](https://github.com/realglobe-Inc/sugo-demo-module) | Demo of SUGO-Module |
 | [sugo-demo-example](https://github.com/realglobe-Inc/sugo-demo-example) | Demo of sugo example |
@@ -136,11 +136,11 @@ Module plugins for SUGOS-Actor
 | [sugo-module-base](https://github.com/realglobe-Inc/sugo-module-base) | Base module for SUGOS |
 | [sugo-module-scss](https://github.com/realglobe-Inc/sugo-module-scss) | SUGOS interface of scss compiler |
 | [sugo-module-classify-image](https://github.com/realglobe-Inc/sugo-module-classify-image) | SUGOS module to classify images |
-| [sugo-module-generator-naoqi](https://github.com/realglobe-Inc/sugo-module-generator-naoqi) |  |
-| [sugo-module-say](https://github.com/realglobe-Inc/sugo-module-say) | Say command module for SUGOS. (Supports only OSX) |
-| [sugo-module-rapiro](https://github.com/realglobe-Inc/sugo-module-rapiro) | SUGOS module to control RAPIRO |
-| [sugo-module-watch](https://github.com/realglobe-Inc/sugo-module-watch) | SUGOS module of watching files |
 | [sugo-module-serialport](https://github.com/realglobe-Inc/sugo-module-serialport) | SUGOS module to access serial ports |
+| [sugo-module-generator-naoqi](https://github.com/realglobe-Inc/sugo-module-generator-naoqi) |  |
+| [sugo-module-rapiro](https://github.com/realglobe-Inc/sugo-module-rapiro) | SUGOS module to control RAPIRO |
+| [sugo-module-say](https://github.com/realglobe-Inc/sugo-module-say) | Say command module for SUGOS. (Supports only OSX) |
+| [sugo-module-watch](https://github.com/realglobe-Inc/sugo-module-watch) | SUGOS module of watching files |
 | [sugo-module-firmata](https://github.com/realglobe-Inc/sugo-module-firmata) | SUGOS module of firmata.js |
 | [sugo-module-plen](https://github.com/realglobe-Inc/sugo-module-plen) | SUGOS module to oparate PLEN |
 | [sugo-module-naoqi](https://github.com/realglobe-Inc/sugo-module-naoqi) |  |
@@ -162,8 +162,8 @@ Endpoint plugins for SUGO-Cloud
 
 | Name | Description |
 | ---- | ----------- |
-| [sugo-endpoint-file](https://github.com/realglobe-Inc/sugo-endpoint-file) | Endpoint to handle files |
 | [sugo-endpoint-noop](https://github.com/realglobe-Inc/sugo-endpoint-noop) | Endpoint to do nothing. |
+| [sugo-endpoint-file](https://github.com/realglobe-Inc/sugo-endpoint-file) | Endpoint to handle files |
 | [sugo-endpoint-compile](https://github.com/realglobe-Inc/sugo-endpoint-compile) | Endpoint to compile javascripts. |
 | [sugo-endpoint-zip](https://github.com/realglobe-Inc/sugo-endpoint-zip) | Endpoint to download files as zip |
 <a name="package-group-Agent"/>
@@ -190,8 +190,8 @@ Helper packages.
 | [sg-templates](https://github.com/realglobe-Inc/sg-templates) | Templates for SUGOS |
 | [sg-react](https://github.com/realglobe-Inc/sg-react) | React utilities for SUGOS |
 | [sg-electron](https://github.com/realglobe-Inc/sg-electron) | Electron utility of SUGOS |
-| [sg-errors](https://github.com/realglobe-Inc/sg-errors) | Error object for SUGOS |
 | [sg-serializer](https://github.com/realglobe-Inc/sg-serializer) | Serializer for SUGOS |
+| [sg-errors](https://github.com/realglobe-Inc/sg-errors) | Error object for SUGOS |
 | [sg-compiler](https://github.com/realglobe-Inc/sg-compiler) | Javascript compiler for sugos |
 | [sg-socket](https://github.com/realglobe-Inc/sg-socket) | Web socket server for SUGOS |
 | [sg-server](https://github.com/realglobe-Inc/sg-server) | HTTP web server for SUGOS |
