@@ -120,8 +120,8 @@ Example project using SUGOS framework
 | ---- | ----------- |
 | [sugo-example-arduino](https://github.com/realglobe-Inc/sugo-example-arduino) | SUGOS example of Arduino |
 | [sugo-example-say](https://github.com/realglobe-Inc/sugo-example-say) | SUGOS example project to invoke &#x60;say&#x60; command on remote MAC (OSX system is required) |
-| [sugo-example-roomba](https://github.com/realglobe-Inc/sugo-example-roomba) | SUGOS example project to contorl roomba |
 | [sugo-example-plen](https://github.com/realglobe-Inc/sugo-example-plen) | SUGOS example project to contorl PLEN |
+| [sugo-example-roomba](https://github.com/realglobe-Inc/sugo-example-roomba) | SUGOS example project to contorl roomba |
 | [sugo-example-rapiro](https://github.com/realglobe-Inc/sugo-example-rapiro) | SUGOS example project to contorl RAPIRO. |
 <a name="package-group-Module"/>
 
@@ -132,10 +132,10 @@ Module plugins for SUGOS-Actor
 | Name | Description |
 | ---- | ----------- |
 | [sugo-module-noop](https://github.com/realglobe-Inc/sugo-module-noop) | Noop module for SUGOS |
-| [sugo-module-base](https://github.com/realglobe-Inc/sugo-module-base) | Base module for SUGOS |
 | [sugo-module-shell](https://github.com/realglobe-Inc/sugo-module-shell) | Shell module for SUGOS |
-| [sugo-module-scss](https://github.com/realglobe-Inc/sugo-module-scss) | SUGOS interface of scss compiler |
+| [sugo-module-base](https://github.com/realglobe-Inc/sugo-module-base) | Base module for SUGOS |
 | [sugo-module-classify-image](https://github.com/realglobe-Inc/sugo-module-classify-image) | SUGOS module to classify images |
+| [sugo-module-scss](https://github.com/realglobe-Inc/sugo-module-scss) | SUGOS interface of scss compiler |
 | [sugo-module-generator-naoqi](https://github.com/realglobe-Inc/sugo-module-generator-naoqi) |  |
 | [sugo-module-watch](https://github.com/realglobe-Inc/sugo-module-watch) | SUGOS module of watching files |
 | [sugo-module-serialport](https://github.com/realglobe-Inc/sugo-module-serialport) | SUGOS module to access serial ports |
@@ -176,9 +176,9 @@ Agent of endpoints
 | Name | Description |
 | ---- | ----------- |
 | [sugo-agent-zip](https://github.com/realglobe-Inc/sugo-agent-zip) | Client for sugo-endpoint-zip |
-| [sugo-agent-file](https://github.com/realglobe-Inc/sugo-agent-file) | Client for sugo-endpoint-file |
 | [sugo-agent-base](https://github.com/realglobe-Inc/sugo-agent-base) | Base class of HTTP clients for SUGOS |
 | [sugo-agent-compile](https://github.com/realglobe-Inc/sugo-agent-compile) | Client for sugo-endpoint-compile |
+| [sugo-agent-file](https://github.com/realglobe-Inc/sugo-agent-file) | Client for sugo-endpoint-file |
 <a name="package-group-Helper"/>
 
 ### Helper Packages
