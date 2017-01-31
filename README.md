@@ -132,10 +132,10 @@ Module plugins for SUGOS-Actor
 | Name | Description |
 | ---- | ----------- |
 | [sugo-module-noop](https://github.com/realglobe-Inc/sugo-module-noop) | Noop module for SUGOS |
-| [sugo-module-shell](https://github.com/realglobe-Inc/sugo-module-shell) | Shell module for SUGOS |
 | [sugo-module-base](https://github.com/realglobe-Inc/sugo-module-base) | Base module for SUGOS |
-| [sugo-module-classify-image](https://github.com/realglobe-Inc/sugo-module-classify-image) | SUGOS module to classify images |
+| [sugo-module-shell](https://github.com/realglobe-Inc/sugo-module-shell) | Shell module for SUGOS |
 | [sugo-module-scss](https://github.com/realglobe-Inc/sugo-module-scss) | SUGOS interface of scss compiler |
+| [sugo-module-classify-image](https://github.com/realglobe-Inc/sugo-module-classify-image) | SUGOS module to classify images |
 | [sugo-module-generator-naoqi](https://github.com/realglobe-Inc/sugo-module-generator-naoqi) |  |
 | [sugo-module-watch](https://github.com/realglobe-Inc/sugo-module-watch) | SUGOS module of watching files |
 | [sugo-module-serialport](https://github.com/realglobe-Inc/sugo-module-serialport) | SUGOS module to access serial ports |
@@ -177,8 +177,8 @@ Agent of endpoints
 | ---- | ----------- |
 | [sugo-agent-zip](https://github.com/realglobe-Inc/sugo-agent-zip) | Client for sugo-endpoint-zip |
 | [sugo-agent-file](https://github.com/realglobe-Inc/sugo-agent-file) | Client for sugo-endpoint-file |
-| [sugo-agent-base](https://github.com/realglobe-Inc/sugo-agent-base) | Base class of HTTP clients for SUGOS |
 | [sugo-agent-compile](https://github.com/realglobe-Inc/sugo-agent-compile) | Client for sugo-endpoint-compile |
+| [sugo-agent-base](https://github.com/realglobe-Inc/sugo-agent-base) | Base class of HTTP clients for SUGOS |
 <a name="package-group-Helper"/>
 
 ### Helper Packages
@@ -194,9 +194,9 @@ Helper packages.
 | [sg-compiler](https://github.com/realglobe-Inc/sg-compiler) | Javascript compiler for sugos |
 | [sg-serializer](https://github.com/realglobe-Inc/sg-serializer) | Serializer for SUGOS |
 | [sg-errors](https://github.com/realglobe-Inc/sg-errors) | Error object for SUGOS |
-| [sg-validator](https://github.com/realglobe-Inc/sg-validator) | JSON schema validator for SUGOS |
 | [sg-socket](https://github.com/realglobe-Inc/sg-socket) | Web socket server for SUGOS |
 | [sg-server](https://github.com/realglobe-Inc/sg-server) | HTTP web server for SUGOS |
+| [sg-validator](https://github.com/realglobe-Inc/sg-validator) | JSON schema validator for SUGOS |
 | [sg-storage](https://github.com/realglobe-Inc/sg-storage) | On-memory storage for SUGOS |
 | [sg-react-components](https://github.com/realglobe-Inc/sg-react-components) | React components for SUGOS project |
 | [sg-socket-client](https://github.com/realglobe-Inc/sg-socket-client) | Web socket client for SUGOS |
