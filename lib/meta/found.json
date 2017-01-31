@@ -528,14 +528,6 @@
     "fork": false
   },
   {
-    "name": "sugo-actor-android-hitoe",
-    "full_name": "realglobe-Inc/sugo-actor-android-hitoe",
-    "private": true,
-    "description": null,
-    "url": "https://api.github.com/repos/realglobe-Inc/sugo-actor-android-hitoe",
-    "fork": false
-  },
-  {
     "name": "sugo-module-plen",
     "full_name": "realglobe-Inc/sugo-module-plen",
     "private": true,
@@ -573,6 +565,14 @@
     "private": true,
     "description": "SUGOS python module for arducopter",
     "url": "https://api.github.com/repos/realglobe-Inc/sugo-module-arducopter",
+    "fork": false
+  },
+  {
+    "name": "sugo-actor-android-hitoe",
+    "full_name": "realglobe-Inc/sugo-actor-android-hitoe",
+    "private": true,
+    "description": null,
+    "url": "https://api.github.com/repos/realglobe-Inc/sugo-actor-android-hitoe",
     "fork": false
   },
   {
