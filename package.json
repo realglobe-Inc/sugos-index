@@ -1,11 +1,11 @@
 {
   "name": "sugos-index",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "Index of SUGOS projects",
   "main": "lib",
   "scripts": {
-    "test": "./ci/test.js",
-    "prepublish": "./ci/build.js"
+    "test": "node ./ci/test.js",
+    "prepare": "node ./ci/build.js"
   },
   "repository": "realglobe-Inc/sugos-index",
   "keywords": [
@@ -37,15 +37,13 @@
     "injectmock": "^2.0.0",
     "minimatch": "^3.0.2",
     "mkdirp": "^0.5.1",
-    "sg-travis": "^1.1.25",
+    "request": "^2.79.0",
     "stringcase": "^3.0.1",
+    "sugos-travis": "^2.0.6",
     "writeout": "^2.0.6"
   },
   "engines": {
     "node": ">=6",
-    "npm": ">=3"
-  },
-  "publishConfig": {
-    "registry": "https://realglobe.artifactoryonline.com/realglobe/api/npm/npm-local"
+    "npm": ">=4"
   }
 }
