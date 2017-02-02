@@ -2,10 +2,9 @@ language: node_js
 node_js:
 - '6'
 before_install:
-- echo "registry = https://realglobe.artifactoryonline.com/realglobe/api/npm/npm-virtual" > $HOME/.npmrc
-- curl -u${NPM_USER}:${NPM_PASSWORD} "https://realglobe.artifactoryonline.com/realglobe/api/npm/auth" >> $HOME/.npmrc
-- cat $HOME/.npmrc
-- npm install istanbul mocha -g
+- npm i npm-cli-login -g
+- echo "NPM_USER=${NPM_USER}"
+- npm-cli-login -u "${NPM_USER}" -p "${NPM_PASSWORD}" -e "${NPM_EMAIL}"
 install:
 - npm install
 before_script:
@@ -13,8 +12,6 @@ before_script:
 script:
 - ./ci/build.js
 - ./ci/test.js
-- ./ci/cover.js
-- ./ci/report.js
 after_success:
 - ./ci/search.js
 - ./ci/build.js
@@ -23,4 +20,4 @@ after_success:
 - git commit -m "[ci skip]Update from Travis CI"
 - git push origin HEAD:master
 env:
-  secure: "Klrxhmp8AmtZdh5UXbQC2V0OlctEopSaqrDtnlJQBVRlkGsLCszpYn7USWb2Sbg8uycJAkmjl9GWZ9o8ZbvEdM2iBaRvqv+0awsotbx57fH64AxnOB8IXI+SiuGFQA+Y69aOQw6djncb99DYaDZP3ImTUr95meV0dqVp6dyLmUU88eXeN1LAXw+ZtOwR6LPIcEfrMaLW8jtVEOycx11lF5YC/QuHFC2T9bAaOEs9niQ4/SmPjLUe/8c+xMMt8MOKOueQvuabpC8wZbJ/NONQYFmSsBgdto602xAx1iV9OFPbQDKdRkzIb/UeI+ZK1sazQiQvWsnxLwjEn0hFvj0WY8ssQvrgqRzfWrrhcQHt0XAGRVYkaxe3EwDlYiQSxLaZ2QD4XIDFEj2CI+n9AqP4okn80nCITY8jKZD73Bz83V2rQsh/BR4s3limSguyLNi2VMWX+1eNS23KehF7zIofT8++buD2NccQATBeR+3tTcvUCgYCOLSrejcJR6GsjqF2pY+AJ3xEv4Pt4EfNPJDmAp64rqpudHfwlXMeE4MXX3h9xHYEPjVNFWEANMTY8SKxWFRoI6P/slenxjV9iT3ytbaoCzrRcDcunNCe//d73K7ZUQUf6dXsxe8a4GmIZjU+aqMERXO6ZAp4sOeB4zGf4hEDGFjcp5M7UJMkq767yGY="
+  secure: "ICiM3AKYyWZo3FancMqPYSHfb2pCpy5WNV+qrqKCfjr0jbI1/oh1WnJXR0cK/IS+LD0YHw2dib0xzTBiG4j2BdqLhIQG7H/eBu/NyXc7lM5QuxQPfFrZsH3xcJkf2sI8WslW7sOLW/iT1iyNTzWWDOsBFiWtp7OExZhM9+Pu/RW0eUeZV3aZe1cusWewodHjobCQTIY/3X/nL8jQhTze2OUrqpnpJ3tzX9lm2jd44CkCcVDPOPLHXb8hSVTtRAIcHymhnu0hwDBDRAyiNbtCdeOPTw5Qf2d7CN7BWKXPtOIYXViQJfNcTjiwM7JpX/Nqwr5RqXCaRLsF9Ll6LEJn79lirDYTR4tcYro7Gerh1XKodywlI5TcGFrSyLtVHVju0rPV93GJ7yeHwgPO9w7VCu1Df5QgWg0fe30fO9ugSEQfzPXgMX1Orda+No68ehPJHNnuvumTrHtCbmruRd6MlBtxLPkGxFzu3EcHrx+tlNud+uubgqvfnaeAZ8yudAso1NMnEoNmeEgSRc01f2wJsXZfSz1Fi9d9EIQSJbkIvRJmx5zvyaPBmEOZo1jzt8QhSNwi0FrQ3pl6xqda8ZK9iuJqf3J6wSYIUxRIzq3l8d0dS9LRhVgO5GG63iTW84ZOYbDZJsAqHF5A6UWts9iYA7/eLAG3OblPvNcqEvM7PJ4="
