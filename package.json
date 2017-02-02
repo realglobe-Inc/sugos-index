@@ -26,12 +26,10 @@
     "co": "^4.6.0"
   },
   "devDependencies": {
-    "ape-covering": "^3.0.3",
+    "amocha": "^2.0.0",
     "ape-formatting": "^1.0.2",
     "ape-releasing": "^4.0.1",
-    "ape-reporting": "^3.0.1",
     "ape-tasking": "^4.0.3",
-    "ape-testing": "^4.0.1",
     "ape-tmpl": "^5.0.12",
     "ape-updating": "^4.0.4",
     "asleep": "^1.0.3",
